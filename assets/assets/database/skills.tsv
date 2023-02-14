@@ -1,0 +1,86 @@
+ID	DisplayName	Description	ConflictSkillIds
+Divinely Inspiring	Divinely Inspiring	Adjacent allies deal +3 damage and take 1 less damage.	
+Alabaster Duty	Alabaster Duty	If unit is adjacent to the Divine Dragon, grants Crit+5 during combat to both of them.	
+Verdant Faith	Verdant Faith	If unit is adjacent to the Divine Dragon, grants Hit+10 during combat to both of them.	
+Crimson Cheer	Crimson Cheer	If unit is adjacent to the Divine Dragon, grants Avo+10 during combat to both of them.	
+SelfImprover	Self-Improver	If unit uses Wait without attacking or using items, grants Str+2 for 1 turn.	
+Energized	Energized	When unit recovers HP using an item, grants Str+2 for 1 turn.	
+Moved to Tears	Moved to Tears	When an ally joins a chain attack in this unit’s combat, unit deals +2 damage.	
+Gentle Flower	Gentle Flower	Recovery items used by allies within 2 spaces heal +50% HP.	
+FairyTale Folk	Fairy-Tale Folk	If a male and a female ally are adjacent within 2 spaces, unit deals +2 damage during combat.	
+Admiration	Admiration	If two female allies are adjacent within 2 spaces, this unit takes 2 less damage during combat.	
+Trained to Kill	Trained to Kill	While unit occupies terrain that provides an Avo bonus, grants Crit+15.	
+Get Behind Me	Get Behind Me!	When an ally within 2 spaces is attacked, grants Str+3 to unit for 1 turn.	
+Generosity	Generosity	When this unit uses a healing item, adjacent allies also recover the same amount of HP.	
+Share Spoils	Share Spoils	If there is an ally within 1 space, grants Hit/Avo+10 at a cost of Crit-10 to unit.	
+Fair Fight	Fair Fight	If unit initiates combat, grants Hit+15 to unit and foe if foe is able to counterattack.	
+Aspiring Hero	Aspiring Hero	If no other units are within 1 space of unit or foe, grants Hit+20 at a cost of Avo-10 during combat.	
+Meditation	Meditation	If unit uses Wait without attacking or using items, grants Res+2 for 1 turn.	
+SingleMinded	Single-Minded	During combat with a foe who was also unit’s most recent opponent, grants Hit+20.	
+Blinding Flash	Blinding Flash	If unit initiates combat, inflicts Avo-10 on foe during combat.	
+Not Quite	Not *Quite*	If foe initiates combat, inflicts Hit-10 on that foe during combat.	
+Charmer	Charmer	During combat with a foe who was also unit’s most recent opponent, inflicts Crit-10 on that foe.	
+Party Animal	Party Animal	Grants a bonus to Hit and Avo equal to 3× the number of allies and foes within 2 spaces.	
+Seconds	Seconds?	On eating a packed lunch, unit may obtain another of the same item. Trigger %=Lck.	
+Racket of Solm	Racket of Solm	Inflicts Crit-5 on foes within 3 spaces.	
+Blood Fury	Blood Fury	If unit’s HP is not at max after combat, grants Crit+10 as long as unit’s HP stays below max.	
+Knightly Escort	Knightly Escort	When 2 or more female allies are within 2 spaces, grants Hit/Avo+5 to unit and those allies.	
+Big Personality	Big Personality	When unit uses a healing staff, grants range +1.	
+Curious Dance	Curious Dance	At start of turn, allies within 2 spaces of unit recover 10% of their max HP.	
+Stunning Smile	Stunning Smile	If foe is male, inflicts Avo-20 on that foe during combat.	
+Disarming Sigh	Disarming Sigh	If foe is male, inflicts Hit-20 on that foe during combat.	
+Weapon Insight	Weapon Insight	If unit is equipped with a weapon of lower level than foe’s, grants Crit+20 during combat.	
+Will to Win	Will to Win	If unit’s HP is 50% or less at start of combat, grants Hit/Avo+20 during combat.	
+Fell Protection	Fell Protection	Adjacent allies deal +1 damage and take 3 less damage.	
+Contemplative	Contemplative	If unit uses Wait without attacking or using items, grants Def+2 for 1 turn.	
+Make a Killing	Make a Killing	May obtain 500G when unit defeats a foe. Trigger %=Lck.	
+Expertise	Expertise	Grants unit enhanced stat growth when leveling up. [Doubles class growths.]	
+Divine Spirit	Divine Spirit	Unit’s engage meter is shortened one step.	
+Dark Spirit	Dark Spirit	Inflicts -1 to the engage meters of foes within 2 spaces at the start of the turn.	
+Fell Spirit	Fell Spirit	At the start of each turn, unit’s engage meter is filled by 1.	
+Golden Lotus	Golden Lotus	During combat, may prevent 50% of physical damage taken. Trigger %=Dex.	
+Ignis	Ignis	During combat, may add half of Str to magic damage or half of Mag to all other damage. Trigger %=Dex.	
+Sol	Sol	Unit may recover HP=50% damage dealt. Trigger %=Dex.	
+Luna	Luna	While making an attack, may ignore half of foe’s Def/Res. Trigger %=Dex.	
+Grasping Void	Grasping Void	When attacking with a tome, unit may deal extra damage = half of foe’s Mag. Trigger %=Dex.	
+World Tree	World Tree	When unit uses a staff, may not consume a use. Trigger %=Dex.	
+Sandstorm	Sandstorm	While making a physical attack, may calculate damage with 150% of Def instead of Str. Trigger %=Dex.	
+Back at You	Back at You	When countering, unit may deal extra damage = half of damage taken. Trigger %=Dex.	
+Soulblade	Soulblade	When attacking with a sword, damage is calculated using average of foe’s Def and Res.	
+Run Through	Run Through	Use to attack an adjacent foe, then move to the space opposite that foe.	
+Brave Assist	Brave Assist	If unit’s HP is at max while unit makes a chain attack, unit attacks twice.	
+Pincer Attack	Pincer Attack	If unit initiates combat while an ally is on the opposite side of the foe, always follow up (if weapon allows).	
+Reforge	Reforge	If unit’s HP is 11 or more and an adjacent ally is broken after combat, sacrifices 10 HP and removes the break status from that ally.	
+Smashp	Smash+	When making a smash attack, push the target 2 spaces instead of 1.	
+Merciless	Merciless	Unit deals +50% damage against broken foes.	
+No Distractions	No Distractions	Grants Crit+10 during combat with a foe that can’t counter.	
+Careful Aim	Careful Aim	If unit initiates combat without moving first, grants Hit+40 during combat.	
+Swap	Swap	Use to switch places with an adjacent ally.	
+Allied Defense	Allied Defense	If unit is between an ally and a foe, reduces damage to unit by 3 during combat with that foe.	
+Pivot	Pivot	Use to move to the opposite side of an adjacent ally.	
+Hobble	Hobble	If unit initiates combat with a knife, inflicts Mov-2 on foe for 1 turn.	
+Spell Harmony	Spell Harmony	If unit initiates combat with a tome, grants Atk equal to the number of adjacent allies with tomes.	
+Chaos Style	Chaos Style	If unit initiates combat with a physical attack against a foe armed with magic or vice versa, grants Spd+3 during combat.	
+Diffuse Healer	Diffuse Healer	When unit is healed by a staff, all adjacent allies also recover 50% of the HP that the unit recovered.	
+Self-Healing	Self-Healing	Unit can target itself with healing staves.	
+Clear the Way	Clear the Way	Unit’s space and adjacent spaces have a movement cost of 1 for allies.	
+Air Raid	Air Raid	If unit initiates combat from a space a foe cannot enter, grants Spd+5 during combat.	
+Pass	Pass	Foes do not block this unit’s movement.	
+Special Dance	Special Dance	If unit uses Dance, grants Dex/Spd/Lck+3 to target for 1 turn.	
+Perceptive	Perceptive	If the unit initiates combat, grants Avo+15 during combat. Avo increases with high Spd.	Perceptivep
+Avoid p10	Avoid +10	Grants Avo+10.	Avoid p15, Avoid p20, Avoid p25, Avoid p30
+Divine Speed	Divine Speed	Unit performs an extra attack at 50% damage in combat.	
+Sword Agility 1	Sword Agility 1	Grants Avo+10 at a cost of Crit-10 when using a sword.	Sword Agility 2, Sword Agility 3, Sword Agility 4, Sword Agility 5
+Break Defenses	Break Defenses	If unit’s attack breaks foe, unit makes an extra attack at 50% damage.	
+Avoid p15	Avoid +15	Grants Avo+15.	Avoid p10, Avoid p20, Avoid p25, Avoid p30
+Sword Agility 2	Sword Agility 2	Grants Avo+15 at a cost of Crit-10 when using a sword.	Sword Agility 2, Sword Agility 3, Sword Agility 4, Sword Agility 5
+Unyielding	Unyielding	At start of player phase, if HP is 20% or less, restores 20% of unit’s max HP.	Unyieldingp, Unyieldingpp
+Sword Agility 3	Sword Agility 3	Grants Avo+20 at a cost of Crit-10 when using a sword.	Sword Agility 1, Sword Agility 2, Sword Agility 4, Sword Agility 5
+Avoid +20	Avoid +20	Grants Avo+20.	Avoid p10, Avoid p15, Avoid p25, Avoid p30
+Unyieldingp	Unyielding+	At start of player phase, if HP is 30% or less, restores 30% of unit’s max HP.	Unyielding, Unyieldingpp
+Sword Agility 4	Sword Agility 4	Grants Avo+25 at a cost of Crit-10 when using a sword.	Sword Agility 1, Sword Agility 2, Sword Agility 3, Sword Agility 5
+Avoid p25	Avoid +25	Grants Avo+25.	Avoid p10, Avoid p15, Avoid p20, Avoid p30
+Perceptivep	Perceptive+	If the unit initiates combat, grants Avo+30 during combat. Avo increases with high Spd.	Perceptive
+Sword Agility 5	Sword Agility 5	Grants Avo+30 at a cost of Crit-10 when using a sword.	Sword Agility 1, Sword Agility 2, Sword Agility 3, Sword Agility 4
+Unyieldingpp	Unyielding++	At start of player phase, if HP is 40% or less, restores 40% of unit’s max HP.	Unyielding, Unyieldingp
+Avoid p30	Avoid +30	Grants Avo+30.	Avoid p10, Avoid p15, Avoid p20, Avoid p25
