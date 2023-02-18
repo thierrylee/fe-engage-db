@@ -3,11 +3,11 @@ Divinely Inspiring	Divinely Inspiring	Adjacent allies deal +3 damage and take 1 
 Alabaster Duty	Alabaster Duty	If unit is adjacent to the Divine Dragon, grants Crit+5 during combat to both of them.	
 Verdant Faith	Verdant Faith	If unit is adjacent to the Divine Dragon, grants Hit+10 during combat to both of them.	
 Crimson Cheer	Crimson Cheer	If unit is adjacent to the Divine Dragon, grants Avo+10 during combat to both of them.	
-SelfImprover	Self-Improver	If unit uses Wait without attacking or using items, grants Str+2 for 1 turn.	
+Self Improver	Self-Improver	If unit uses Wait without attacking or using items, grants Str+2 for 1 turn.	
 Energized	Energized	When unit recovers HP using an item, grants Str+2 for 1 turn.	
 Moved to Tears	Moved to Tears	When an ally joins a chain attack in this unit’s combat, unit deals +2 damage.	
 Gentle Flower	Gentle Flower	Recovery items used by allies within 2 spaces heal +50% HP.	
-FairyTale Folk	Fairy-Tale Folk	If a male and a female ally are adjacent within 2 spaces, unit deals +2 damage during combat.	
+Fairy Tale Folk	Fairy-Tale Folk	If a male and a female ally are adjacent within 2 spaces, unit deals +2 damage during combat.	
 Admiration	Admiration	If two female allies are adjacent within 2 spaces, this unit takes 2 less damage during combat.	
 Trained to Kill	Trained to Kill	While unit occupies terrain that provides an Avo bonus, grants Crit+15.	
 Get Behind Me	Get Behind Me!	When an ally within 2 spaces is attacked, grants Str+3 to unit for 1 turn.	
@@ -16,7 +16,7 @@ Share Spoils	Share Spoils	If there is an ally within 1 space, grants Hit/Avo+10 
 Fair Fight	Fair Fight	If unit initiates combat, grants Hit+15 to unit and foe if foe is able to counterattack.	
 Aspiring Hero	Aspiring Hero	If no other units are within 1 space of unit or foe, grants Hit+20 at a cost of Avo-10 during combat.	
 Meditation	Meditation	If unit uses Wait without attacking or using items, grants Res+2 for 1 turn.	
-SingleMinded	Single-Minded	During combat with a foe who was also unit’s most recent opponent, grants Hit+20.	
+Single Minded	Single-Minded	During combat with a foe who was also unit’s most recent opponent, grants Hit+20.	
 Blinding Flash	Blinding Flash	If unit initiates combat, inflicts Avo-10 on foe during combat.	
 Not Quite	Not *Quite*	If foe initiates combat, inflicts Hit-10 on that foe during combat.	
 Charmer	Charmer	During combat with a foe who was also unit’s most recent opponent, inflicts Crit-10 on that foe.	
@@ -62,7 +62,7 @@ Hobble	Hobble	If unit initiates combat with a knife, inflicts Mov-2 on foe for 1
 Spell Harmony	Spell Harmony	If unit initiates combat with a tome, grants Atk equal to the number of adjacent allies with tomes.	
 Chaos Style	Chaos Style	If unit initiates combat with a physical attack against a foe armed with magic or vice versa, grants Spd+3 during combat.	
 Diffuse Healer	Diffuse Healer	When unit is healed by a staff, all adjacent allies also recover 50% of the HP that the unit recovered.	
-Self-Healing	Self-Healing	Unit can target itself with healing staves.	
+Self Healing	Self-Healing	Unit can target itself with healing staves.	
 Clear the Way	Clear the Way	Unit’s space and adjacent spaces have a movement cost of 1 for allies.	
 Air Raid	Air Raid	If unit initiates combat from a space a foe cannot enter, grants Spd+5 during combat.	
 Pass	Pass	Foes do not block this unit’s movement.	
