@@ -1,0 +1,22 @@
+3.1.2:
+- Add in-app changelog
+- Fix persistent storage on web version
+
+3.1.1:
+- Bug fix on average stats calculation
+
+3.1.0:
+- Add average stats calculation on class screen
+- Fix characters max stats
+
+3.0.0:
+- Add class change system
+- Add average stats calculation
+
+2.0.0:
+- Add home screen
+- Add settings screen
+- Add classes with stats & skills
+
+1.0.0:
+- Character base stats, class, level, proficiencies, growth rates & max stats
