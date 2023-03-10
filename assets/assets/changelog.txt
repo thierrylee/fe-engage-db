@@ -1,3 +1,10 @@
+3.2:
+- Add anti-spoilers system
+- Information order changed
+- Now shows stats before stats rating chart
+- Can now access directly to some web pages (i.e.: with bookmarks)
+- Fix infinite loadings
+
 3.1.2:
 - Add in-app changelog
 - Fix persistent storage on web version
