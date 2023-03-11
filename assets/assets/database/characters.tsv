@@ -1,38 +1,38 @@
-ID	DisplayName	Gender	ClassStart	RecruitementChapter	RecruitementDescription	BaseLevel	BaseHp	BaseBld	BaseStr	BaseMag	BaseDex	BaseSpd	BaseDef	BaseRes	BaseLuck	GrowthHP	GrowthBld	GrowthStr	GrowthMag	GrowthDex	GrowthSpd	GrowthDef	GrowthRes	GrowthLck	MaxHP	MaxBld	MaxStr	MaxMag	MaxDex	MaxSpd	MaxDef	MaxRes	MaxLuck	RatingGrowthHP	RatingGrowthBld	RatingGrowthStr	RatingGrowthMag	RatingGrowthDex	RatingGrowthSpd	RatingGrowthDef	RatingGrowthRes	RatingGrowthLck	InnateProficiencies	Proficiencies	IsMajorSpoiler
-AlearM	Alear (M)	M	Dragon Child	Prologue	From start	1	22	4	6	0	5	7	5	3	5	60	5	35	20	45	50	40	25	25			1		1	1				44%	25%	75%	40%	83%	83%	63%	40%	38%	Sword	Arts	F
-AlearF	Alear (F)	F	Dragon Child	Prologue	From start	1	22	4	6	0	5	7	5	3	5	60	5	35	20	45	50	40	25	25			1		1	1				44%	25%	75%	40%	83%	83%	63%	40%	38%	Sword	Arts	F
-Vander	Vander	M	Paladin Axe	Chapter 1		1	40	8	11	5	10	8	10	8	6	60	5	25	10	25	35	35	20	10			1	-1	1	-2	3	-2		44%	25%	50%	20%	17%	33%	50%	30%	0%	Axe		F
-Clanne	Clanne	M	Mage	Chapter 2		1	19	4	1	8	11	9	4	7	4	40	5	35	10	40	50	30	25	20			1	-1	2	2	-2	-1		0%	25%	75%	20%	67%	83%	38%	40%	25%	Tome	Sword	F
-Framme	Framme	F	Martial Monk	Chapter 2		1	18	3	3	5	8	7	4	8	5	55	0	30	25	35	55	25	30	25				1	-1	2	-1	-1	1	33%	0%	63%	50%	50%	100%	25%	50%	38%	Arts	Staff	F
-Alfred	Alfred	M	Noble Alfred	Chapter 3	When Turn 2 starts	5	27	6	9	2	10	6	8	5	8	65	10	40	5	35	40	40	20	40			2	-1	1		2	-2	-1	56%	50%	88%	10%	50%	50%	63%	30%	75%	Lance	Sword	F
-Etie	Etie	F	Archer	Chapter 3	When Turn 2 starts	4	21	4	10	0	11	6	3	2	8	45	5	40	0	25	35	25	30	25			2	-2	2			-1	-1	11%	25%	88%	0%	17%	33%	25%	50%	38%	Bow		F
-Boucheron	Boucheron	M	Axe Fighter	Chapter 3	When Turn 2 starts	4	29	9	10	0	8	7	6	3	5	85	20	20	0	50	45	35	20	15			1		2	2	-2		-2	100%	100%	38%	0%	100%	67%	50%	30%	13%	Axe		F
-Celine	Céline	F	Noble Celine	Chapter 4	When the fight begins	5	22	4	7	9	9	10	5	7	11	50	5	35	25	30	45	30	40	50			-2	2	-2	1	-3	1	3	22%	25%	75%	50%	33%	67%	38%	70%	100%	Tome	Sword, Staff	F
-Chloe	Chloé	F	Lance Flier	Chapter 4	When the fight begins	6	26	5	8	4	13	13	5	9	10	75	5	25	35	40	55	30	25	25			-2	1		3	-1			78%	25%	50%	70%	67%	100%	38%	40%	38%	Lance	Staff	F
-Louis	Louis	M	Lance Armor	Chapter 4	When the fight begins	6	30	8	13	0	11	3	16	1	4	75	15	40	0	25	25	50	20	25			1		-1	-2	3	-2	1	78%	75%	88%	0%	17%	0%	88%	30%	38%	Lance		F
-Jean	Jean	M	Martial Monk	Paralogue 1	Talk with Alear or survive	1	19	3	4	5	10	7	4	8	3	50	5	20	20	35	40	25	20	25				2	-1	-1			1	22%	25%	38%	40%	50%	50%	25%	30%	38%	Arts	Tome, Staff	F
-Yunaka	Yunaka	F	Thief	Chapter 6	When the fight begins	6	25	5	8	5	14	12	9	7	8	50	5	35	25	40	45	15	45	25			-1		1	2	-2	2	-1	22%	25%	75%	50%	67%	67%	0%	80%	38%	Dagger		F
-Anna	Anna	F	Axe Fighter	Paralogue 2	Talk with Alear or survive	5	29	7	10	2	9	7	4	5	3	55	5	15	50	50	50	20	35	45				1	1	1	-2	-1	1	33%	25%	25%	100%	100%	83%	13%	60%	88%	Bow	Axe	F
-Alcryst	Alcryst	M	Lord Alcryst	Chapter 7	When the fight begins	10	28	6	11	2	17	12	8	5	8	65	10	30	10	40	45	30	20	15			1	-1	3		1	-2	-1	56%	50%	63%	20%	67%	67%	38%	30%	13%	Bow		F
-Citrinne	Citrinne	F	Mage	Chapter 7	When the fight begins	10	24	4	2	15	13	10	3	12	10	45	5	10	40	25	30	20	40	25			-1	3		-1	-2	2		11%	25%	13%	80%	17%	17%	13%	70%	38%	Tome	Staff	F
-Lapis	Lapis	F	Sword Fighter	Chapter 7	When the fight begins	10	26	5	11	2	12	14	7	6	7	55	5	25	20	35	55	35	30	25			-2	-2	2	3				33%	25%	50%	40%	50%	100%	50%	50%	38%	Sword		F
-Diamant	Diamant	M	Lord Diamant	Chapter 8	When the fight begins	11	32	9	13	3	13	13	10	6	10	75	15	30	15	20	40	40	25	20			2	-1	-1		2	-1		78%	75%	63%	30%	0%	50%	63%	40%	25%	Sword	Axe	F
-Amber	Amber	M	Lance Cavalier	Chapter 8	When the fight begins	11	31	8	15	2	13	11	9	3	9	65	15	45	0	25	30	35	5	35			2	-1	-1	-1	1	-1	1	56%	75%	100%	0%	17%	17%	50%	0%	63%	Lance		F
-Jade	Jade	F	Axe Armor	Chapter 9	Tallk with Alear/Diamant or survive	12	33	8	14	4	14	5	18	6	5	55	10	35	25	35	30	40	30	20			1	-1			2		-1	33%	50%	75%	50%	50%	17%	63%	50%	25%	Axe		F
-Ivy	Ivy	F	Wing Tamer Ivy	Chapter 11		17	32	7	7	17	15	13	12	15	4	55	10	25	30	25	40	30	35	15				2	-2		2	2	-3	33%	50%	50%	60%	17%	50%	38%	60%	13%	Tome	Staff	F
-Kagetsu	Kagetsu	M	Swordmaster	Chapter 11		1	35	9	17	5	22	22	14	10	17	60	10	30	15	50	50	40	25	40			-1	-1	2	2		-2	1	44%	50%	63%	30%	100%	83%	63%	40%	75%	Sword		F
-Zelkov	Zelkov	M	Thief	Chapter 11		17	35	9	15	3	19	19	14	5	7	65	10	35	15	40	35	35	15	25				-1	2			-1	1	56%	50%	75%	30%	67%	33%	50%	20%	38%	Dagger		F
-Fogado	Fogado	M	Sentinel Fogado	Chapter 12		17	33	8	12	7	17	18	10	11	8	60	10	30	25	30	55	30	35	25			-1	-1		3	-1	1		44%	50%	63%	50%	33%	100%	38%	60%	38%	Bow	Sword	F
-Pandreo	Pandreo	M	High Priest	Chapter 12		1	34	8	7	16	18	17	8	22	14	60	15	5	30	45	45	15	55	30			-3	2		-1	-2	3	2	44%	75%	0%	60%	83%	67%	0%	100%	50%	Staff	Tome, Arts	F
-Bunet	Bunet	M	Great Knight Sword Axe	Chapter 12		1	41	11	15	5	15	9	20	8	13	65	10	30	10	40	35	45	25	40			1	-3	1		2	-1	1	56%	50%	63%	20%	67%	33%	75%	40%	75%	Sword	Axe	F
-Timerra	Timerra	F	Sentinel Timerra	Chapter 13	When the fight begins	18	35	5	14	6	17	18	16	8	10	55	10	25	25	45	45	30	30	30			-1	-1	3		2	-3	1	33%	50%	50%	50%	83%	67%	38%	50%	50%	Lance		F
-Panette	Panette	F	Berserker	Chapter 13	When the fight begins	1	46	11	25	3	19	13	11	7	11	75	15	45	10	40	25	30	15	20			3	-1				-1		78%	75%	100%	20%	67%	0%	38%	20%	25%	Dagger	Axe	F
-Merrin	Merrin	F	Sword Wolf Knight	Chapter 13	When the fight begins	1	36	9	15	10	21	21	12	12	14	55	10	25	25	40	50	30	30	25			-1	-1	1	2	-1		1	33%	50%	50%	50%	67%	83%	38%	50%	38%	Dagger	Sword	F
-Hortensia	Hortensia	F	Wing Tamer Hortensia	Chapter 14		19	27	5	5	12	21	19	6	23	17	40	0	20	20	35	50	25	55	50			-2			1	-3	3	2	0%	0%	38%	40%	50%	83%	25%	100%	100%	Staff	Tome	F
-Seadall	Seadall	M	Dancer	Chapter 15		15	33	8	12	4	15	16	10	10	11	55	10	25	15	25	50	25	25	35				-2	-1	2			2	33%	50%	50%	30%	17%	83%	25%	40%	63%	Arts		F
-Rosado	Rosado	M	Lance Axe Wyvern Knight	Chapter 16	When the fight begins	3	44	8	16	7	19	21	15	11	8	75	5	45	25	40	45	30	30	20			3	-2	1		1	-2		78%	25%	100%	50%	67%	67%	38%	50%	25%	Axe	Lance	F
-Goldmary	Goldmary	F	Hero Lance	Chapter 16	When the fight begins	3	40	9	17	2	18	20	20	12	13	65	5	30	5	25	25	55	25	25			1	-3			2	-1	2	56%	25%	63%	10%	17%	0%	100%	40%	38%	Lance	Sword	F
-Lindon	Lindon	M	Sage	Chapter 18	Talk with Alear/Ivy/Hortensia	5	38	10	8	19	21	19	12	21	8	65	10	25	25	25	40	25	40	15				2	-1		-2	2		56%	50%	50%	50%	17%	50%	25%	70%	13%	Staff	Tome	F
-Saphir	Saphir	F	Warrior	Chapter 19	Talk with Alear/Diamant/Alcryst or survive?	7	51	15	24	2	23	19	19	9	15	80	10	35	0	25	30	30	5	20			2	-2		1	1	-2		89%	50%	75%	0%	17%	17%	38%	0%	25%	Axe	Bow	F
-Veyle	Veyle	F	Fell Child	Chapter 21	When the fight begins	35	35	7	20	26	24	23	17	29	18	40	0	25	45	35	30	25	35	20				3		-1		3	-2	0%	0%	50%	90%	50%	17%	25%	60%	25%	Tome	Dagger	T
-Mauvier	Mauvier	M	Royal Knight	Chapter 22	When the fight begins	12	51	12	21	23	25	22	26	24	16	70	15	35	40	40	35	50	45	15			1	2	1	-2	1	1	-2	67%	75%	75%	80%	67%	33%	88%	80%	13%	Staff	Lance	T
+ID	DisplayName	Gender	ClassStart	RecruitementChapter	RecruitementDescription	BaseLevel	IGInternalLevel	BaseInternalLevel	BaseHp	BaseBld	BaseStr	BaseMag	BaseDex	BaseSpd	BaseDef	BaseRes	BaseLuck	GrowthHP	GrowthBld	GrowthStr	GrowthMag	GrowthDex	GrowthSpd	GrowthDef	GrowthRes	GrowthLck	MaxHP	MaxBld	MaxStr	MaxMag	MaxDex	MaxSpd	MaxDef	MaxRes	MaxLuck	RatingGrowthHP	RatingGrowthBld	RatingGrowthStr	RatingGrowthMag	RatingGrowthDex	RatingGrowthSpd	RatingGrowthDef	RatingGrowthRes	RatingGrowthLck	InnateProficiencies	Proficiencies	IsMajorSpoiler
+AlearM	Alear (M)	M	Dragon Child	Prologue	From start	1	0	1	22	4	6	0	5	7	5	3	5	60	5	35	20	45	50	40	25	25			1		1	1				44%	25%	75%	40%	83%	83%	63%	40%	38%	Sword	Arts	F
+AlearF	Alear (F)	F	Dragon Child	Prologue	From start	1	0	1	22	4	6	0	5	7	5	3	5	60	5	35	20	45	50	40	25	25			1		1	1				44%	25%	75%	40%	83%	83%	63%	40%	38%	Sword	Arts	F
+Vander	Vander	M	Paladin Axe	Chapter 1		1	15	16	40	8	11	5	10	8	10	8	6	60	5	25	10	25	35	35	20	10			1	-1	1	-2	3	-2		44%	25%	50%	20%	17%	33%	50%	30%	0%	Axe		F
+Clanne	Clanne	M	Mage	Chapter 2		1	0	1	19	4	1	8	11	9	4	7	4	40	5	35	10	40	50	30	25	20			1	-1	2	2	-2	-1		0%	25%	75%	20%	67%	83%	38%	40%	25%	Tome	Sword	F
+Framme	Framme	F	Martial Monk	Chapter 2		1	0	1	18	3	3	5	8	7	4	8	5	55	0	30	25	35	55	25	30	25				1	-1	2	-1	-1	1	33%	0%	63%	50%	50%	100%	25%	50%	38%	Arts	Staff	F
+Alfred	Alfred	M	Noble Alfred	Chapter 3	When Turn 2 starts	5	0	5	27	6	9	2	10	6	8	5	8	65	10	40	5	35	40	40	20	40			2	-1	1		2	-2	-1	56%	50%	88%	10%	50%	50%	63%	30%	75%	Lance	Sword	F
+Etie	Etie	F	Archer	Chapter 3	When Turn 2 starts	4	0	4	21	4	10	0	11	6	3	2	8	45	5	40	0	25	35	25	30	25			2	-2	2			-1	-1	11%	25%	88%	0%	17%	33%	25%	50%	38%	Bow		F
+Boucheron	Boucheron	M	Axe Fighter	Chapter 3	When Turn 2 starts	4	0	4	29	9	10	0	8	7	6	3	5	85	20	20	0	50	45	35	20	15			1		2	2	-2		-2	100%	100%	38%	0%	100%	67%	50%	30%	13%	Axe		F
+Celine	Céline	F	Noble Celine	Chapter 4	When the fight begins	5	0	5	22	4	7	9	9	10	5	7	11	50	5	35	25	30	45	30	40	50			-2	2	-2	1	-3	1	3	22%	25%	75%	50%	33%	67%	38%	70%	100%	Tome	Sword, Staff	F
+Chloe	Chloé	F	Lance Flier	Chapter 4	When the fight begins	6	0	6	26	5	8	4	13	13	5	9	10	75	5	25	35	40	55	30	25	25			-2	1		3	-1			78%	25%	50%	70%	67%	100%	38%	40%	38%	Lance	Staff	F
+Louis	Louis	M	Lance Armor	Chapter 4	When the fight begins	6	0	6	30	8	13	0	11	3	16	1	4	75	15	40	0	25	25	50	20	25			1		-1	-2	3	-2	1	78%	75%	88%	0%	17%	0%	88%	30%	38%	Lance		F
+Jean	Jean	M	Martial Monk	Paralogue 1	Talk with Alear or survive	1	0	1	19	3	4	5	10	7	4	8	3	50	5	20	20	35	40	25	20	25				2	-1	-1			1	22%	25%	38%	40%	50%	50%	25%	30%	38%	Arts	Tome, Staff	F
+Yunaka	Yunaka	F	Thief	Chapter 6	When the fight begins	6	0	6	25	5	8	5	14	12	9	7	8	50	5	35	25	40	45	15	45	25			-1		1	2	-2	2	-1	22%	25%	75%	50%	67%	67%	0%	80%	38%	Dagger		F
+Anna	Anna	F	Axe Fighter	Paralogue 2	Talk with Alear or survive	5	0	5	29	7	10	2	9	7	4	5	3	55	5	15	50	50	50	20	35	45				1	1	1	-2	-1	1	33%	25%	25%	100%	100%	83%	13%	60%	88%	Bow	Axe	F
+Alcryst	Alcryst	M	Lord Alcryst	Chapter 7	When the fight begins	10	0	10	28	6	11	2	17	12	8	5	8	65	10	30	10	40	45	30	20	15			1	-1	3		1	-2	-1	56%	50%	63%	20%	67%	67%	38%	30%	13%	Bow		F
+Citrinne	Citrinne	F	Mage	Chapter 7	When the fight begins	10	0	10	24	4	2	15	13	10	3	12	10	45	5	10	40	25	30	20	40	25			-1	3		-1	-2	2		11%	25%	13%	80%	17%	17%	13%	70%	38%	Tome	Staff	F
+Lapis	Lapis	F	Sword Fighter	Chapter 7	When the fight begins	10	0	10	26	5	11	2	12	14	7	6	7	55	5	25	20	35	55	35	30	25			-2	-2	2	3				33%	25%	50%	40%	50%	100%	50%	50%	38%	Sword		F
+Diamant	Diamant	M	Lord Diamant	Chapter 8	When the fight begins	11	0	11	32	9	13	3	13	13	10	6	10	75	15	30	15	20	40	40	25	20			2	-1	-1		2	-1		78%	75%	63%	30%	0%	50%	63%	40%	25%	Sword	Axe	F
+Amber	Amber	M	Lance Cavalier	Chapter 8	When the fight begins	11	0	11	31	8	15	2	13	11	9	3	9	65	15	45	0	25	30	35	5	35			2	-1	-1	-1	1	-1	1	56%	75%	100%	0%	17%	17%	50%	0%	63%	Lance		F
+Jade	Jade	F	Axe Armor	Chapter 9	Tallk with Alear/Diamant or survive	12	0	12	33	8	14	4	14	5	18	6	5	55	10	35	25	35	30	40	30	20			1	-1			2		-1	33%	50%	75%	50%	50%	17%	63%	50%	25%	Axe		F
+Ivy	Ivy	F	Wing Tamer Ivy	Chapter 11		17	0	17	32	7	7	17	15	13	12	15	4	55	10	25	30	25	40	30	35	15				2	-2		2	2	-3	33%	50%	50%	60%	17%	50%	38%	60%	13%	Tome	Staff	F
+Kagetsu	Kagetsu	M	Swordmaster	Chapter 11		1	15	16	35	9	17	5	22	22	14	10	17	60	10	30	15	50	50	40	25	40			-1	-1	2	2		-2	1	44%	50%	63%	30%	100%	83%	63%	40%	75%	Sword		F
+Zelkov	Zelkov	M	Thief	Chapter 11		17	0	17	35	9	15	3	19	19	14	5	7	65	10	35	15	40	35	35	15	25				-1	2			-1	1	56%	50%	75%	30%	67%	33%	50%	20%	38%	Dagger		F
+Fogado	Fogado	M	Sentinel Fogado	Chapter 12		17	0	17	33	8	12	7	17	18	10	11	8	60	10	30	25	30	55	30	35	25			-1	-1		3	-1	1		44%	50%	63%	50%	33%	100%	38%	60%	38%	Bow	Sword	F
+Pandreo	Pandreo	M	High Priest	Chapter 12		1	15	16	34	8	7	16	18	17	8	22	14	60	15	5	30	45	45	15	55	30			-3	2		-1	-2	3	2	44%	75%	0%	60%	83%	67%	0%	100%	50%	Staff	Tome, Arts	F
+Bunet	Bunet	M	Great Knight Sword Axe	Chapter 12		1	15	16	41	11	15	5	15	9	20	8	13	65	10	30	10	40	35	45	25	40			1	-3	1		2	-1	1	56%	50%	63%	20%	67%	33%	75%	40%	75%	Sword	Axe	F
+Timerra	Timerra	F	Sentinel Timerra	Chapter 13	When the fight begins	18	0	18	35	5	14	6	17	18	16	8	10	55	10	25	25	45	45	30	30	30			-1	-1	3		2	-3	1	33%	50%	50%	50%	83%	67%	38%	50%	50%	Lance		F
+Panette	Panette	F	Berserker	Chapter 13	When the fight begins	1	15	16	46	11	25	3	19	13	11	7	11	75	15	45	10	40	25	30	15	20			3	-1				-1		78%	75%	100%	20%	67%	0%	38%	20%	25%	Dagger	Axe	F
+Merrin	Merrin	F	Sword Wolf Knight	Chapter 13	When the fight begins	1	15	16	36	9	15	10	21	21	12	12	14	55	10	25	25	40	50	30	30	25			-1	-1	1	2	-1		1	33%	50%	50%	50%	67%	83%	38%	50%	38%	Dagger	Sword	F
+Hortensia	Hortensia	F	Wing Tamer Hortensia	Chapter 14		19	0	19	27	5	5	12	21	19	6	23	17	40	0	20	20	35	50	25	55	50			-2			1	-3	3	2	0%	0%	38%	40%	50%	83%	25%	100%	100%	Staff	Tome	F
+Seadall	Seadall	M	Dancer	Chapter 15		15	0	15	33	8	12	4	15	16	10	10	11	55	10	25	15	25	50	25	25	35				-2	-1	2			2	33%	50%	50%	30%	17%	83%	25%	40%	63%	Arts		F
+Rosado	Rosado	M	Lance Axe Wyvern Knight	Chapter 16	When the fight begins	3	17	20	44	8	16	7	19	21	15	11	8	75	5	45	25	40	45	30	30	20			3	-2	1		1	-2		78%	25%	100%	50%	67%	67%	38%	50%	25%	Axe	Lance	F
+Goldmary	Goldmary	F	Hero Lance	Chapter 16	When the fight begins	3	17	20	40	9	17	2	18	20	20	12	13	65	5	30	5	25	25	55	25	25			1	-3			2	-1	2	56%	25%	63%	10%	17%	0%	100%	40%	38%	Lance	Sword	F
+Lindon	Lindon	M	Sage	Chapter 18	Talk with Alear/Ivy/Hortensia	5	18	23	38	10	8	19	21	19	12	21	8	65	10	25	25	25	40	25	40	15				2	-1		-2	2		56%	50%	50%	50%	17%	50%	25%	70%	13%	Staff	Tome	F
+Saphir	Saphir	F	Warrior	Chapter 19	Talk with Alear/Diamant/Alcryst or survive?	7	19	26	51	15	24	2	23	19	19	9	15	80	10	35	0	25	30	30	5	20			2	-2		1	1	-2		89%	50%	75%	0%	17%	17%	38%	0%	25%	Axe	Bow	F
+Veyle	Veyle	F	Fell Child	Chapter 21	When the fight begins	35	0	35	35	7	20	26	24	23	17	29	18	40	0	25	45	35	30	25	35	20				3		-1		3	-2	0%	0%	50%	90%	50%	17%	25%	60%	25%	Tome	Dagger	T
+Mauvier	Mauvier	M	Royal Knight	Chapter 22	When the fight begins	12	19	31	51	12	21	23	25	22	26	24	16	70	15	35	40	40	35	50	45	15			1	2	1	-2	1	1	-2	67%	75%	75%	80%	67%	33%	88%	80%	13%	Staff	Lance	T
