@@ -1,3 +1,6 @@
+3.4:
+- Add Starsphere stats & growth rates calculation
+
 3.3:
 - Show internal level
 - Fix "cannot change to Tireur d'élite class"
