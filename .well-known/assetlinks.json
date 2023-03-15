@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "me.thierrylee.feengagedb.twa",
+               "sha256_cert_fingerprints": ["2A:39:5B:38:D1:58:B0:02:5F:61:14:AE:86:9D:0A:8E:0C:2F:A1:6A:C9:E2:C1:AF:5B:18:68:61:80:0D:24:AF"] }
+}]
