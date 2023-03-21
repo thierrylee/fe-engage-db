@@ -1,0 +1,457 @@
+ID	EmblemId	ReqBondLevel	IsSyncSkill	isEngageSkill	Uses	IsInheritable	ReqSP
+Perceptive	Marth	1	T	F		T	250
+Avoid p10	Marth	1	F	F		T	500
+Divine Speed	Marth	1	F	T		F	
+Lodestar Rush	Marth	1	F	T	1	F	
+Sword Agility 1	Marth	2	F	F		T	500
+Break Defenses	Marth	3	T	F		T	2000
+Avoid p15	Marth	4	F	F		T	1500
+Skill Inheritance	Marth	5	F	F		T	
+Sword Agility 2	Marth	6	F	F		T	1000
+Unyielding	Marth	7	T	F		T	100
+Sword Agility 3	Marth	8	F	F		T	2000
+Sword Prof	Marth	8	F	F		T	
+Strong Bond	Marth	11	F	F		T	
+Unyieldingp	Marth	12	T	F		T	200
+Sword Agility 4	Marth	13	F	F		T	3000
+Avoid p25	Marth	14	F	F		T	3500
+Perceptivep	Marth	16	T	F		T	500
+Sword Agility 5	Marth	17	F	F		T	4000
+Unyieldingpp	Marth	18	T	F		T	300
+Avoid p30	Marth	19	F	F		T	4500
+Deep Synergy	Marth	20	F	F		T	
+Gallop	Sigurd	1	F	T		F	
+Override	Sigurd	1	F	T	1	F	
+Canter	Sigurd	1	T	F		T	1000
+Hit p10	Sigurd	1	F	F		T	500
+Lance Power 1	Sigurd	2	F	F		T	1000
+Momentum	Sigurd	3	T	F		T	1000
+Hit p15	Sigurd	4	F	F		T	1000
+Skill Inheritance	Sigurd	5	F	F		T	
+Lance Power 2	Sigurd	6	F	F		T	2000
+Lance Prof	Sigurd	6	F	F		T	
+Headlong Rush	Sigurd	7	T	F		T	200
+Lance Power 3	Sigurd	8	F	F		T	3000
+Sword Prof	Sigurd	9	F	F		T	
+Strong Bond	Sigurd	11	F	F		T	
+Hit p20	Sigurd	12	F	F		T	1500
+Canterp	Sigurd	13	T	F		T	2000
+Lance Power 4	Sigurd	14	F	F		T	4000
+Hit p25	Sigurd	16	F	F		T	2000
+Momentump	Sigurd	17	T	F		T	2000
+Lance Power 5	Sigurd	18	F	F		T	5000
+Hit p30	Sigurd	19	F	F		T	2500
+Deep Synergy	Sigurd	20	F	F		T	
+Magic p2	Celica	1	F	F		T	1000
+Holy Stance	Celica	1	T	F		T	100
+Echo	Celica	1	F	T		F	
+Warp Ragnarok	Celica	1	F	T		F	
+Magic p3	Celica	2	F	F		T	3000
+Resonance	Celica	3	T	F		T	2000
+Tome Precision 1	Celica	4	F	F		T	100
+Skill Inheritance	Celica	5	F	F		T	
+Tome Prof	Celica	6	F	F		T	
+Tome Precision 2	Celica	7	F	F		T	300
+Favorite Food	Celica	8	T	F		T	200
+Tome Precision 3	Celica	9	F	F		T	700
+Sword Prof	Celica	9	F	F		T	
+Strong Bond	Celica	11	F	F		T	
+Holy Stancep	Celica	12	T	F		T	500
+Magic p4	Celica	13	F	F		T	4000
+Tome Precision 4	Celica	14	F	F		T	1000
+Tome Precision 5	Celica	17	F	F		T	2000
+Holy Stancepp	Celica	18	T	F		T	1000
+Magic p5	Celica	19	F	F		T	5000
+Deep Synergy	Celica	20	F	F		T	
+Resistance p2	Micaiah	1	F	F		T	300
+Cleric	Micaiah	1	T	F		F	
+Augment	Micaiah	1	F	T		F	
+Great Sacrifice	Micaiah	1	F	T	1	F	
+Staff Mastery 1	Micaiah	2	F	F		T	100
+Healing Light	Micaiah	3	T	F		T	200
+Staff Prof	Micaiah	3	F	F		T	
+Resistance p3	Micaiah	4	F	F		T	500
+Skill Inheritance	Micaiah	5	F	F		T	
+Knife Prof	Micaiah	6	F	F		T	
+Silence Ward	Micaiah	7	T	F		T	200
+Staff Mastery 2	Micaiah	8	F	F		T	300
+Tome Prof	Micaiah	9	F	F		T	
+Strong Bond	Micaiah	11	F	F		T	
+Staff Mastery 3	Micaiah	12	F	F		T	500
+Clericp	Micaiah	13	T	F		F	
+Resistance p4	Micaiah	14	F	F		T	1000
+Staff Mastery 4	Micaiah	16	F	F		T	700
+Staff Mastery 5	Micaiah	17	F	F		T	1000
+Clericpp	Micaiah	18	T	F		F	
+Resistance p5	Micaiah	19	F	F		T	2000
+Deep Synergy	Micaiah	20	F	F		T	
+Strength p1	Roy	1	F	F		T	500
+Hold Out	Roy	1	T	F		T	2000
+Rise Above	Roy	1	F	T		F	
+Blazing Lion	Roy	1	F	T	1	F	
+Strength p2	Roy	2	F	F		T	1000
+Advance	Roy	3	T	F		T	500
+Sword Power 1	Roy	4	F	F		T	1000
+Skill Inheritance	Roy	5	F	F		T	
+Sword Prof	Roy	6	F	F		T	
+Sword Power 2	Roy	7	F	F		T	2000
+Hold Outp	Roy	8	T	F		T	3000
+Strength p3	Roy	9	F	F		T	3000
+Sword Power 3	Roy	9	F	F		T	3000
+Strong Bond	Roy	11	F	F		T	
+Sword Power 4	Roy	12	F	F		T	4000
+Hold Outpp	Roy	13	T	F		T	4000
+Strength p4	Roy	14	F	F		T	4000
+Sword Power 5	Roy	16	F	F		T	5000
+Strength p5	Roy	17	F	F		T	5000
+Hold Outppp	Roy	18	T	F		T	5000
+Strength p6	Roy	19	F	F		T	6000
+Deep Synergy	Roy	20	F	F		T	
+Build p3	Leif	1	F	F		T	500
+Arms Shield	Leif	1	T	F		T	200
+Adaptable	Leif	1	F	T		F	
+Quadruple Hit	Leif	1	F	T	1	F	
+Axe Prof	Leif	2	F	F		T	
+Vantage	Leif	3	T	F		T	500
+Bow Prof	Leif	3	F	F		T	
+Knife Precision 1	Leif	4	F	F		T	100
+Knife Prof	Leif	4	F	F		T	
+Skill Inheritance	Leif	5	F	F		T	
+Build p4	Leif	6	F	F		T	1000
+Staff Prof	Leif	6	F	F		T	
+Arms Shieldp	Leif	7	T	F		T	400
+Lance Prof	Leif	7	F	F		T	
+Sword Prof	Leif	8	F	F		T	
+Knife Precision 2	Leif	9	F	F		T	300
+Strong Bond	Leif	11	F	F		T	
+Vantagep	Leif	12	T	F		T	1000
+Knife Precision 3	Leif	13	F	F		T	700
+Build p5	Leif	14	F	F		T	2000
+Arms Shieldpp	Leif	16	T	F		T	600
+Knife Precision 4	Leif	17	F	F		T	1000
+Vantagepp	Leif	18	T	F		T	2000
+Knife Precision 5	Leif	19	F	F		T	2000
+Deep Synergy	Leif	20	F	F		T	
+Dexterity p1	Lucina	1	F	F		T	100
+Dual Strike	Lucina	1	T	F		F	
+Bonded Shield	Lucina	1	F	T		F	
+All For One	Lucina	1	F	T	1	F	
+Dexterity p2	Lucina	2	F	F		T	300
+Dual Assist	Lucina	3	T	F		T	1000
+Bow Agility 1	Lucina	4	F	F		T	500
+Skill Inheritance	Lucina	5	F	F		T	
+Sword Prof	Lucina	6	F	F		T	
+Bow Agility 2	Lucina	7	F	F		T	1000
+Bow Prof	Lucina	8	F	F		T	
+Dexterity p3	Lucina	9	F	F		T	500
+Strong Bond	Lucina	11	F	F		T	
+Bow Agility 3	Lucina	12	F	F		T	2000
+Dual Support	Lucina	13	T	F		T	2000
+Bow Agility 4	Lucina	14	F	F		T	3000
+Dexterity p4	Lucina	16	F	F		T	1000
+Bow Agility 5	Lucina	17	F	F		T	4000
+Dual Assistp	Lucina	18	T	F		T	2000
+Dexterity p5	Lucina	19	F	F		T	2000
+Deep Synergy	Lucina	20	F	F		T	
+Speed p1	Lyn	1	F	F		T	100
+Alacrity	Lyn	1	T	F		T	1000
+Call Doubles	Lyn	1	F	T		F	
+Astra Storm	Lyn	1	F	T	1	F	
+Speed p2	Lyn	2	F	F		T	300
+Speedtaker	Lyn	3	T	F		T	2000
+Bow Focus 1	Lyn	4	F	F		T	100
+Skill Inheritance	Lyn	5	F	F		T	
+Bow Prof	Lyn	6	F	F		T	
+Bow Focus 2	Lyn	7	F	F		T	300
+Sword Prof	Lyn	8	F	F		T	
+Speed p3	Lyn	9	F	F		T	500
+Strong Bond	Lyn	11	F	F		T	
+Bow Focus 3	Lyn	12	F	F		T	500
+Alacrityp	Lyn	13	T	F		T	2000
+Bow Focus 4	Lyn	14	F	F		T	700
+Speed p4	Lyn	16	F	F		T	1000
+Bow Focus 5	Lyn	17	F	F		T	1000
+Alacritypp	Lyn	18	T	F		T	3000
+Speed p5	Lyn	19	F	F		T	2000
+Deep Synergy	Lyn	20	F	F		T	
+Defense p1	Ike	1	F	F		T	100
+Demolish	Ike	1	T	F		T	200
+Resolve	Ike	1	T	F		T	1000
+Laguz Friend	Ike	1	F	T		F	
+Great Aether	Ike	1	F	T	1	F	
+Defense p2	Ike	2	F	F		T	300
+Reposition	Ike	3	T	F		T	200
+Axe Power 1	Ike	4	F	F		T	1000
+Skill Inheritance	Ike	5	F	F		T	
+Axe Prof	Ike	6	F	F		T	
+Axe Power 2	Ike	7	F	F		T	2000
+Defense p3	Ike	8	F	F		T	500
+Sword Prof	Ike	9	F	F		T	
+Strong Bond	Ike	11	F	F		T	
+Axe Power 3	Ike	12	F	F		T	3000
+Wrath	Ike	13	T	F		T	2000
+Axe Power 4	Ike	14	F	F		T	4000
+Defense p4	Ike	16	F	F		T	1000
+Axe Power 5	Ike	17	F	F		T	5000
+Resolvep	Ike	18	T	F		T	2000
+Defense p5	Ike	19	F	F		T	2000
+Deep Synergy	Ike	20	F	F		T	
+Luck p2	Byleth	1	F	F		T	100
+Divine Pulse	Byleth	1	T	F		T	250
+Instruct	Byleth	1	F	T		F	
+Goddess Dance	Byleth	1	F	T		F	
+Luck p4	Byleth	2	F	F		T	300
+Mentorship	Byleth	3	T	F		T	250
+Art Focus 1	Byleth	4	F	F		T	100
+Skill Inheritance	Byleth	5	F	F		T	
+Art Focus 2	Byleth	6	F	F		T	300
+Arts Prof	Byleth	6	F	F		T	
+Art Focus 3	Byleth	7	F	F		T	500
+Luck p6	Byleth	8	F	F		T	500
+Sword Prof	Byleth	9	F	F		T	
+Strong Bond	Byleth	11	F	F		T	
+Art Focus 4	Byleth	12	F	F		T	700
+Lost n Found	Byleth	13	T	F		T	250
+Art Focus 5	Byleth	14	F	F		T	1000
+Luck p8	Byleth	16	F	F		T	1000
+Luck p10	Byleth	17	F	F		T	2000
+Divine Pulsep	Byleth	18	T	F		T	500
+Luck p12	Byleth	19	F	F		T	3000
+Deep Synergy	Byleth	20	F	F		T	
+HP p5	Corrin	1	F	F		T	300
+Dragon Vein	Corrin	1	T	F		F	
+Dreadful Aura	Corrin	1	F	T		F	
+Torrential Roar	Corrin	1	F	T	1	F	
+HP p7	Corrin	2	F	F		T	500
+Quality Time	Corrin	3	T	F		T	250
+Sword Focus 1	Corrin	4	F	F		T	100
+Skill Inheritance	Corrin	5	F	F		T	
+Sword Prof	Corrin	6	F	F		T	
+Sword Focus 2	Corrin	7	F	F		T	300
+Draconic Hex	Corrin	8	T	F		T	2000
+HP p10	Corrin	9	F	F		T	1000
+Strong Bond	Corrin	11	F	F		T	
+Sword Focus 3	Corrin	12	F	F		T	500
+Pair Up	Corrin	13	T	F		T	2000
+Sword Focus 4	Corrin	14	F	F		T	700
+HP p12	Corrin	16	F	F		T	2000
+Sword Focus 5	Corrin	17	F	F		T	1000
+Quality Timep	Corrin	18	T	F		T	500
+HP p15	Corrin	19	F	F		T	3000
+Deep Synergy	Corrin	20	F	F		T	
+Lunar Brace	Eirika	1	T	F		F	
+Lunar Brace	EirikaEphraim	1	F	F		T	3000
+Solar Brace	Ephraim	1	T	F		F	
+Eclipse Brace	EirikaEphraim	1	F	T		F	
+Dodge p10	EirikaEphraim	1	F	F		T	500
+Night and Day	EirikaEphraim	1	T	F		F	
+Sacred Twins	EirikaEphraim	1	F	T		F	
+Twin Strike	EirikaEphraim	1	F	T	1	F	
+Lance Agility 1	EirikaEphraim	2	F	F		T	500
+Gentility	Eirika	3	T	F		F	
+Gentility	EirikaEphraim	3	F	F		T	2000
+Bravery	Ephraim	3	T	F		F	
+Blue Skies	EirikaEphraim	3	F	T		F	
+Dodge p15	EirikaEphraim	4	F	F		T	1000
+Skill Inheritance	EirikaEphraim	5	F	F		T	
+Lance Prof	EirikaEphraim	6	F	F		T	
+Lance Agility 2	EirikaEphraim	7	F	F		T	1000
+Dodge p20	EirikaEphraim	8	F	F		T	1500
+Sword Prof	EirikaEphraim	9	F	F		T	
+Strong Bond	EirikaEphraim	11	F	F		T	
+Lance Agility 3	EirikaEphraim	12	F	F		T	2000
+Lunar Bracep	Eirika	13	T	F		F	
+Lunar Bracep	EirikaEphraim	13	F	F		T	5000
+Solar Bracep	Ephraim	13	T	F		F	
+Eclipse Bracep	EirikaEphraim	13	F	T		F	
+Dodge p25	EirikaEphraim	14	F	F		T	2000
+Lance Agility 4	EirikaEphraim	16	F	F		T	3000
+Lance Agility 5	EirikaEphraim	17	F	F		T	4000
+Gentilityp	Eirika	18	T	F		F	
+Gentilityp	EirikaEphraim	18	F	F		T	3000
+Braveryp	Ephraim	18	T	F		F	
+Blue Skiesp	EirikaEphraim	18	F	T		F	
+Dodge p30	EirikaEphraim	19	F	F		T	2500
+Deep Synergy	EirikaEphraim	20	F	F		T	
+Holy Aura	Alear	1	T	F		F	
+Attuned	Alear	1	F	T		F	
+Dragon Blast	Alear	1	F	T	1	F	
+Bond Blast	Alear	1	F	T	1	F	
+Bond Forger	Alear	5	T	F		F	
+Sword Prof	Alear	10	F	F		T	
+Arts Prof	Alear	10	F	F		T	
+Strong Bond	Alear	11	F	F		T	
+Bond Forgerp	Alear	20	T	F		F	
+Holy Shield	Alear	20	T	F		F	
+Deep Synergy	Alear	20	F	F		T	
+Boon of Elyos	Alear	21	T	F		F	
+Gambit	ThreeHouses	1	T	F		F	
+Flame Gambit	Edelgard	1	T	F		F	
+Shield Gambit	Dimitri	1	T	F		F	
+Poison Gambit	Claude	1	T	F		F	
+Friendly Rivalry	ThreeHouses	1	T	F		F	
+Combat Arts	ThreeHouses	1	F	T		F	
+Raging Storm	ThreeHouses	1	F	T		F	
+Atrocity	ThreeHouses	1	F	T		F	
+Fallen Star	ThreeHouses	1	F	T		F	
+Houses Unite	ThreeHouses	1	F	T	1	F	
+Houses Unitep	ThreeHouses	1	F	T	1	F	
+Assembly Gambit	ThreeHouses	2	F	F		T	1500
+StrDex p1	ThreeHouses	3	F	F		T	700
+Lineage	ThreeHouses	3	T	F		T	150
+Bow Guard 1	ThreeHouses	4	F	F		T	200
+Skill Inheritance	ThreeHouses	5	F	F		T	
+Axe Prof	ThreeHouses	6	F	F		T	
+StrDex p2	ThreeHouses	7	F	F		T	1600
+Bow Guard 2	ThreeHouses	8	F	F		T	400
+Lance Prof	ThreeHouses	9	F	F		T	
+Strong Bond	ThreeHouses	11	F	F		T	
+Weapon Sync	ThreeHouses	12	T	F		T	3000
+StrDex p3	ThreeHouses	12	F	F		T	4200
+Bow Prof	ThreeHouses	13	F	F		T	
+Bow Guard 3	ThreeHouses	14	F	F		T	600
+StrDex p4	ThreeHouses	16	F	F		T	6000
+Weapon Syncp	ThreeHouses	17	T	F		T	5000
+Bow Guard 4	ThreeHouses	17	F	F		T	800
+StrDex p5	ThreeHouses	18	F	F		T	8400
+Bow Guard 5	ThreeHouses	19	F	F		T	1000
+Deep Synergy	ThreeHouses	20	F	F		T	
+Starsphere	Tiki	1	T	F		T	1500
+Draconic Form	Tiki	1	F	T		F	
+Divine Blessing	Tiki	1	F	T	1	F	
+Divine Blessingp	Tiki	1	F	T	1	F	
+HPLck p2	Tiki	2	F	F		T	200
+Geosphere	Tiki	3	T	F		T	500
+Special Guard 1	Tiki	4	F	F		T	200
+Skill Inheritance	Tiki	5	F	F		T	
+Arts Prof	Tiki	6	F	F		T	
+HPLck p4	Tiki	7	F	F		T	600
+Lifesphere	Tiki	8	T	F		T	1000
+Special Guard 2	Tiki	9	F	F		T	400
+Lightsphere	Tiki	10	T	F		T	900
+Strong Bond	Tiki	11	F	F		T	
+HPLck p6	Tiki	12	F	F		T	1100
+Special Guard 3	Tiki	13	F	F		T	600
+Lifespherep	Tiki	14	T	F		T	2000
+HPLck p8	Tiki	15	F	F		T	1900
+Geospherep	Tiki	16	T	F		T	1000
+Special Guard 4	Tiki	17	F	F		T	800
+HPLck p10	Tiki	18	F	F		T	3600
+Lifespherepp	Tiki	19	T	F		T	3000
+Special Guard 5	Tiki	19	F	F		T	1000
+Deep Synergy	Tiki	20	F	F		T	
+Quick Riposte	Hector	1	T	F		T	2000
+Impenetrable	Hector	1	F	T		F	
+Storms Eye	Hector	1	F	T	1	F	
+Storms Eyep	Hector	1	F	T	1	F	
+StrDef p1	Hector	2	F	F		T	700
+Adaptability	Hector	3	T	F		T	350
+Axe Guard 1	Hector	4	F	F		T	200
+Skill Inheritance	Hector	5	F	F		T	
+Axe Prof	Hector	6	F	F		T	
+StrDef p2	Hector	7	F	F		T	1600
+Heavy Attack	Hector	8	T	F		T	3000
+Axe Guard 2	Hector	9	F	F		T	400
+Strong Bond	Hector	11	F	F		T	
+StrDef p3	Hector	12	F	F		T	4200
+Piercing Glare	Hector	12	T	F		F	
+Axe Guard 3	Hector	13	F	F		T	600
+StrDef p4	Hector	14	F	F		T	6000
+Quick Ripostep	Hector	16	T	F		T	3000
+Axe Guard 4	Hector	17	F	F		T	800
+StrDef p5	Hector	18	F	F		T	8400
+Adaptabilityp	Hector	19	T	F		T	700
+Axe Guard 5	Hector	19	F	F		T	1000
+Deep Synergy	Hector	20	F	F		T	
+Assign Decoy	Soren	1	T	F		T	1500
+Flare	Soren	1	F	T		F	
+Cataclysm	Soren	1	F	T	1	F	
+Cataclysmp	Soren	1	F	T	1	F	
+MagRes p1	Soren	2	F	F		T	700
+Magic Guard 1	Soren	3	F	F		T	200
+Anima Focus	Soren	4	T	F		T	800
+Skill Inheritance	Soren	5	F	F		T	
+Knife Prof	Soren	6	F	F		T	
+MagRes p2	Soren	7	F	F		T	1600
+Magic Guard 2	Soren	8	F	F		T	400
+Keen Insight	Soren	9	T	F		T	1500
+Strong Bond	Soren	11	F	F		T	
+MagRes p3	Soren	12	F	F		T	4200
+Staff Prof	Soren	12	F	F		T	
+Block Recovery	Soren	13	T	F		T	1500
+Magic Guard 3	Soren	13	F	F		T	600
+MagRes p4	Soren	14	F	F		T	6000
+Tome Prof	Soren	16	F	F		T	
+Magic Guard 4	Soren	17	F	F		T	800
+Keen Insightp	Soren	18	T	F		T	3000
+MagRes p5	Soren	18	F	F		T	8400
+Magic Guard 5	Soren	19	F	F		T	1000
+Deep Synergy	Soren	20	F	F		T	
+SpdRes p1	Camilla	1	F	F		T	250
+Dragon Vein Camilla	Camilla	1	T	F		F	
+Soar	Camilla	1	F	T		F	
+Dark Inferno	Camilla	1	F	T	1	F	
+Dark Infernop	Camilla	1	F	T	1	F	
+Lance Guard 1	Camilla	2	F	F		T	200
+SpdRes p2	Camilla	3	F	F		T	700
+Decisive Strike	Camilla	4	T	F		T	500
+Skill Inheritance	Camilla	5	F	F		T	
+Axe Prof	Camilla	6	F	F		T	
+Lance Guard 2	Camilla	7	F	F		T	400
+Detoxify	Camilla	8	T	F		T	250
+SpdRes p3	Camilla	9	F	F		T	1200
+Strong Bond	Camilla	11	F	F		T	
+Groundswell	Camilla	12	T	F		T	500
+Lance Guard 3	Camilla	13	F	F		T	600
+SpdRes p4	Camilla	14	F	F		T	2400
+Lance Guard 4	Camilla	16	F	F		T	800
+Tome Prof	Camilla	17	F	F		T	
+Decisive Strikep	Camilla	18	T	F		T	1000
+SpdRes p5	Camilla	18	F	F		T	4800
+Lance Guard 5	Camilla	19	F	F		T	1000
+Deep Synergy	Camilla	20	F	F		T	
+Surprise Attack	ChromRobin	1	T	F		T	3000
+Other Half	ChromRobin	1	F	T		F	
+Giga Levin Sword	ChromRobin	1	F	T	1	F	
+Giga Levin Swordp	ChromRobin	1	F	T	1	F	
+SpdDex p1	ChromRobin	2	F	F		T	250
+Sword Guard 1	ChromRobin	3	F	F		T	200
+Rally Spectrum	ChromRobin	4	T	F		T	1500
+Skill Inheritance	ChromRobin	5	F	F		T	
+Sword Prof	ChromRobin	6	F	F		T	
+SpdDex p2	ChromRobin	7	F	F		T	700
+Brute Force	ChromRobin	8	T	F		T	1500
+Sword Guard 2	ChromRobin	9	F	F		T	400
+Strong Bond	ChromRobin	11	F	F		T	
+SpdDex p3	ChromRobin	12	F	F		T	1200
+Charm	ChromRobin	13	T	F		T	800
+Sword Guard 3	ChromRobin	13	F	F		T	600
+SpdDex p4	ChromRobin	14	F	F		T	2400
+Tome Prof	ChromRobin	16	F	F		T	
+Sword Guard 4	ChromRobin	17	F	F		T	800
+Rally Spectrump	ChromRobin	18	T	F		T	2000
+SpdDex p5	ChromRobin	18	F	F		T	4800
+Sword Guard 5	ChromRobin	19	F	F		T	1000
+Deep Synergy	ChromRobin	20	F	F		T	
+Reprisal	Veronica	1	T	F		T	5000
+Contract	Veronica	1	F	T		F	
+Summon Hero	Veronica	1	F	T	1	F	
+MagDex p1	Veronica	2	F	F		T	700
+Book of Worlds	Veronica	3	T	F		F	
+Knife Guard 1	Veronica	4	F	F		T	200
+Skill Inheritance	Veronica	5	F	F		T	
+Staff Prof	Veronica	6	F	F		T	
+MagDex p2	Veronica	7	F	F		T	1600
+Level Boost	Veronica	8	T	F		T	300
+Knife Guard 2	Veronica	9	F	F		T	400
+Strong Bond	Veronica	11	F	F		T	
+MagDex p3	Veronica	12	F	F		T	4200
+SP Conversion	Veronica	13	T	F		T	300
+Knife Guard 3	Veronica	13	F	F		T	600
+MagDex p4	Veronica	14	F	F		T	6000
+Tome Prof	Veronica	16	F	F		T	
+Knife Guard 4	Veronica	17	F	F		T	800
+Reprisalp	Veronica	18	T	F		T	6000
+MagDex p5	Veronica	18	F	F		T	8400
+Knife Guard 5	Veronica	19	F	F		T	1000
+Deep Synergy	Veronica	20	F	F		T	

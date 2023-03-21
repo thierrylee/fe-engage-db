@@ -1,0 +1,72 @@
+ID	EmblemId	ReqBondLevel	ReqClassTypes
+Rapier	Marth	1	
+Mercurius	Marth	10	
+Falchion	Marth	15	
+Ridersbane Sigurd	Sigurd	1	
+Brave Lance Sigurd	Sigurd	10	
+Tyrfing	Sigurd	15	
+Seraphim	Celica	1	
+Recover Celica	Celica	10	
+Ragnarok	Celica	15	
+Shine	Micaiah	1	
+Nosferatu	Micaiah	10	
+Thani	Micaiah	15	
+Lancereaver	Roy	1	
+Wyrmslayer Roy	Roy	10	
+Binding Blade	Roy	15	
+Killer Axe Leif	Leif	1	
+Master Lance	Leif	10	
+Light Brand	Leif	15	
+Noble Rapier	Lucina	1	
+Parthia	Lucina	10	
+Parallel Falchion	Lucina	15	
+Killer Bow Lyn	Lyn	1	
+Mani Katti	Lyn	10	
+Mulagir	Lyn	15	
+Hammer Ike	Ike	1	
+Urvan	Ike	10	
+Ragnell	Ike	15	
+Blutgang	Byleth	1	Backup
+Areadbhar	Byleth	1	Cavalry
+Failnaught	Byleth	1	Covert
+Aegis Shield	Byleth	1	Armor
+Luin	Byleth	1	Flying
+Thyrsus	Byleth	1	Mystical
+Rafail Gem	Byleth	1	Qi Adept
+Aymr	Byleth	1	Dragon
+Vajra Mushti	Byleth	10	
+Sword of the Creator	Byleth	15	
+Dual Katana	Corrin	1	
+Wakizashi	Corrin	10	
+Yato	Corrin	15	
+Rapier Eirika	EirikaEphraim	1	
+Wind Sword	EirikaEphraim	10	
+Sieglinde	EirikaEphraim	15	
+Lyration	Alear	1	
+Dragons Fist	Alear	10	
+Oligoludia	Alear	20	
+Aymr Edelgard	ThreeHouses	1	
+Areadbhar Dimitri	ThreeHouses	10	
+Failnaught Claude	ThreeHouses	15	
+Eternal Claw	Tiki	1	
+Tail Smash	Tiki	1	
+Fire Breath	Tiki	1	Backup, Cavalry, Covert, Qi Adept
+Ice Breath	Tiki	1	Armor
+Flame Breath	Tiki	1	Flying
+Dark Breath	Tiki	1	Mystical
+Fog Breath	Tiki	1	Dragon
+Wolf Beil	Hector	1	
+Runesword	Hector	10	
+Armads	Hector	15	
+Bolting	Soren	1	
+Reflect	Soren	10	
+Rexcalibur	Soren	15	
+Bolt Axe	Camilla	1	
+Lightning	Camilla	10	
+Camillas Axe	Camilla	15	
+Levin Sword Robin	ChromRobin	1	
+Thoron Robin	ChromRobin	10	
+Falchion Chrom	ChromRobin	15	
+Hlioskjalf	Veronica	1	
+Fortifyp	Veronica	10	
+Elivagar	Veronica	15	

@@ -1,0 +1,166 @@
+ID	UnitType	BonusDescription
+Divine Speed	Covert	[Covert] If extra attack hits, poisons foe.
+Divine Speed	Dragon	[Dragon] Unit recovers HP equal to damage dealt by extra attack.
+Lodestar Rush	Dragon	[Dragon] +2 attacks.
+Lodestar Rush	Backup	[Backup] +1 attack.
+Lodestar Rush	Mystical	[Mystical] Damage based on Mag.
+Gallop	Dragon	[Dragon] Grants another Mov+1.
+Gallop	Cavalry	[Cavalry] Grants another Mov+2.
+Gallop	Covert	[Covert] Unit does not pay extra movement cost on any terrain.
+Override	Dragon	[Dragon] +20% damage.
+Override	Armor	[Armor] 10% chance of breaking target.
+Override	Mystical	[Mystical] Deals extra damage=25% of Mag.
+Override	Qi Adept	[Qi Adept] 20% chance of breaking target.
+Echo	Dragon	[Dragon] Range +1.
+Echo	Mystical	[Mystical] +10% damage.
+Warp Ragnarok	Dragon	[Dragon] Attack range +1.
+Warp Ragnarok	Cavalry	[Cavalry] Warp distance +2.
+Warp Ragnarok	Flying	[Flying] Warp distance +5.
+Warp Ragnarok	Mystical	[Mystical] +20% damage.
+Augment	Dragon	[Dragon] Additional staff range +1.
+Augment	Qi Adept	[Qi Adept] +20% to HP healed by staves.
+Great Sacrifice	Dragon	[Dragon] Unit’s HP=30% current.
+Great Sacrifice	Armor	[Armor] Grants Def+1 to all healed during their next combat.
+Great Sacrifice	Qi Adept	[Qi Adept] Also cures status.
+Rise Above	Dragon	[Dragon] Additional Lvl+1.
+Rise Above	Cavalry	[Cavalry] Mov+1.
+Rise Above	Armor	[Armor] Max HP+5.
+Blazing Lion	Dragon	[Dragon] Expands attack area.
+Blazing Lion	Mystical	[Mystical] Expands flame area.
+Adaptable	Dragon	[Dragon] Hit+30 during combat.
+Adaptable	Backup	[Backup] Crit+10 during combat.
+Adaptable	Covert	[Covert] Avo+20 during combat.
+Adaptable	Armor	[Armor] Def+5 during combat.
+Adaptable	Flying	[Flying] Res+5 during combat.
+Quadruple Hit	Dragon	[Dragon] +20% damage.
+Quadruple Hit	Covert	[Covert] Foes may drop 1,000G. Trigger %=Lck.
+Quadruple Hit	Qi Adept	[Qi Adept] Breaks foe.
+Bonded Shield	Dragon	[Dragon] +10% to trigger rate.
+Bonded Shield	Cavalry	[Cavalry] Trigger %=100 for cavalry allies.
+Bonded Shield	Armor	[Armor] Trigger %=100 for armored allies.
+Bonded Shield	Flying	[Flying] Trigger %=100 for flying allies.
+Bonded Shield	Qi Adept	[Qi Adept] Trigger %=100.
+All For One	Dragon	[Dragon] Ally chain attacks are guaranteed to hit.
+All For One	Backup	[Backup] Range +1.
+Call Doubles	Dragon	[Dragon] +1 double created.
+Call Doubles	Flying	[Flying] Doubles have +10 Avo
+Astra Storm	Dragon	[Dragon] Range +5.
+Astra Storm	Covert	[Covert] Range +10.
+Astra Storm	Qi Adept	[Qi Adept] Breaks the target.
+Laguz Friend	Dragon	[Dragon] Extra -10% to damage.
+Great Aether	Dragon	[Dragon] +1 damage per hit taken.
+Great Aether	Armor	[Armor] Grants an extra Def+5.
+Great Aether	Flying	[Flying] Grants an extra Res+5.
+Instruct	Dragon	[Dragon] All seven basic stats +3.
+Instruct	Backup	[Backup] Str+4.
+Instruct	Cavalry	[Cavalry] Dex+10.
+Instruct	Covert	[Covert] Spd+5.
+Instruct	Armor	[Armor] Def+5.
+Instruct	Flying	[Flying] Res+5.
+Instruct	Mystical	[Mystical] Mag+4.
+Instruct	Qi Adept	[Qi Adept] Lck+10.
+Goddess Dance	Dragon	[Dragon] Grants +3 to all targets’ basic stats for 1 turn.
+Goddess Dance	Backup	[Backup] Grants Str+4 to targets for 1 turn.
+Goddess Dance	Cavalry	[Cavalry] Grants Dex+10 to targets for 1 turn.
+Goddess Dance	Covert	[Covert] Grants Spd+5 to targets for 1 turn.
+Goddess Dance	Armor	[Armor] Grants Def+5 to targets for 1 turn.
+Goddess Dance	Flying	[Flying] Grants Res+5 to targets for 1 turn.
+Goddess Dance	Mystical	[Mystical] Grants Mag+4 to targets for 1 turn.
+Goddess Dance	Qi Adept	[Qi Adept] Grants Lck+10 to targets for 1 turn.
+Dragon Vein	Dragon	[Dragon] Choose any Vein effect.
+Dragon Vein	Backup	[Backup] Creates stone pillars that increase Def/Res.
+Dragon Vein	Cavalry	[Cavalry] Creates water that decreases Avo.
+Dragon Vein	Covert	[Covert] Creates fog that increases Avo.
+Dragon Vein	Armor	[Armor] Creates vines that grant immunity to break.
+Dragon Vein	Flying	[Flying] Creates healing glow that restores HP.
+Dragon Vein	Mystical	[Mystical] Creates flames that inflict damage.
+Dragon Vein	Qi Adept	[Qi Adept] Creates ice pillars that hinder movement.
+Dreadful Aura	Covert	[Covert] Also Avo-20 on target.
+Torrential Roar	Dragon	[Dragon] Range +1.
+Twin Strike	Dragon	[Dragon] +20% damage.
+Twin Strike	Cavalry	[Cavalry] Ephraim deals +50% damage.
+Attuned	Dragon	[Dragon] Extra +1 to all stats.
+Attuned	Backup	[Backup] Extra +2 to Str.
+Attuned	Cavalry	[Cavalry] Extra +2 to Dex.
+Attuned	Covert	[Covert] Extra +2 to Spd.
+Attuned	Armor	[Armor] Extra +2 to Def.
+Attuned	Flying	[Flying] Extra +2 to Res.
+Attuned	Mystical	[Mystical] Extra +2 to Mag.
+Attuned	Qi Adept	[Qi Adept] Extra +2 to Lck.
+Dragon Blast	Dragon	[Dragon] +20% damage.
+Dragon Blast	Backup	[Backup] Adds 20% of Str to sword attack.
+Dragon Blast	Mystical	[Mystical] Adds 20% of Mag to beam attack.
+Dragon Blast	Qi Adept	[Qi Adept] Breaks foe.
+Bond Blast	Dragon	[Dragon] +20% damage.
+Bond Blast	Backup	[Backup] +20% of Str to sword.
+Bond Blast	Mystical	[Mystical] +20% of Mag to beam.
+Bond Blast	Qi Adept	[Qi Adept] Breaks foe.
+Combat Arts	Dragon	[Dragon] +10% damage.
+Combat Arts	Covert	[Covert] Avo+20.
+Houses Unite	Dragon	[Dragon] +10% damage.
+Houses Unite	Cavalry	[Cavalry] +10% damage with Areadbhar.
+Houses Unite	Covert	[Covert] +10% damage with Failnaught.
+Houses Unite	Armor	[Armor] +10% damage with Aymr.
+Houses Unite	Qi Adept	[Qi Adept] Breaks foe.
+Houses Unitep	Dragon	[Dragon] +10% damage.
+Houses Unitep	Cavalry	[Cavalry] +10% damage with Areadbhar.
+Houses Unitep	Covert	[Covert] +10% damage with Failnaught.
+Houses Unitep	Armor	[Armored] +10% damage with Aymr.
+Houses Unitep	Qi Adept	[Qi Adept] Breaks foe.
+Draconic Form	Armor	[Armor] Negates terrain damage.
+Draconic Form	Mystical	[Mystical] Grants an extra Res+5.
+Divine Blessing	Dragon	[Dragon] Restore 20 HP to ally.
+Divine Blessing	Qi Adept	[Qi Adept] Heal their status effects.
+Divine Blessingp	Dragon	[Dragon] Restore 20 HP to ally.
+Divine Blessingp	Qi Adept	[Qi Adept] Heal their status effects.
+Impenetrable	Dragon	[Dragon] Ddg+50%.
+Impenetrable	Cavalry	[Cavalry] Grants immunity to freeze.
+Impenetrable	Armor	[Armor] Grants Def+50% instead of +30%.
+Impenetrable	Flying	[Flying] Grants Res+50% instead of +30%.
+Storms Eye	Dragon	[Dragon] Prevent one critical hit.
+Storms Eye	Backup	[Backup] Crit+20.
+Storms Eye	Covert	[Covert] Avo+30.
+Storms Eyep	Dragon	[Dragon] Prevent one critical hit.
+Storms Eyep	Backup	[Backup] Crit+20.
+Storms Eyep	Covert	[Covert] Avo+30.
+Flare	Dragon	[Dragon] Critical hit rate doubled
+Flare	Mystical	[Mystical] Extra -10% to foe’s Res.
+Flare	Qi Adept	[Qi Adept] Unit recovers 100% of damage dealt instead.
+Cataclysm	Dragon	[Dragon] Sets terrain on fire.
+Cataclysm	Mystical	[Mystical] +10% damage.
+Cataclysm	Qi Adept	[Qi Adept] 20% chance of breaking target.
+Cataclysmp	Dragon	[Dragon] Sets terrain on fire.
+Cataclysmp	Mystical	[Mystical] +10% damage.
+Cataclysmp	Qi Adept	[Qi Adept] 20% chance of breaking target.
+Dragon Vein Camilla	Dragon	[Dragon] Choose any Vein effect.
+Dragon Vein Camilla	Backup	[Backup] Creates stone pillars that increase Def/Res.
+Dragon Vein Camilla	Cavalry	[Cavalry] Creates water that decreases Avo.
+Dragon Vein Camilla	Covert	[Covert] Creates smoke that decreases Def/Avo.
+Dragon Vein Camilla	Armor	[Armor] Creates vines that grant immunity to break.
+Dragon Vein Camilla	Flying	[Flying] Creates healing glow that restores HP.
+Dragon Vein Camilla	Mystical	[Mystical] Creates flames that inflict damage.
+Dragon Vein Camilla	Qi Adept	[Qi Adept] Creates ice floor that increases movement.
+Soar	Dragon	[Dragon] If unit initiates combat, deals damage to foes within 2 spaces equal to 10% of their max HP after combat.
+Soar	Cavalry	[Cavalry] Grants an extra Mov+2.
+Soar	Flying	[Flying] Grants an extra Mov+1.
+Dark Inferno	Dragon	[Dragon] Increases area of effect.
+Dark Inferno	Mystical	[Mystical] +20% damage.
+Dark Inferno	Qi Adept	[Qi Adept] Adds Glow to adjacent spaces.
+Dark Infernop	Dragon	[Dragon] Increases area of effect.
+Dark Infernop	Mystical	[Mystical] +20% damage.
+Dark Infernop	Qi Adept	[Qi Adept] Adds Glow to adjacent spaces.
+Other Half	Dragon	[Dragon] Robin chain attacks 2 times.
+Other Half	Backup	[Backup] Guaranteed hit with chain attack.
+Other Half	Covert	[Covert] Grants Mov+1 while engaged.
+Giga Levin Sword	Dragon	[Dragon] Deals extra damage = half of Str.
+Giga Levin Sword	Flying	[Flying] Deals extra damage = Bld.
+Giga Levin Sword	Mystical	[Mystical] Deals extra damage = half of Mag.
+Giga Levin Swordp	Dragon	[Dragon] Deals extra damage = half of Str.
+Giga Levin Swordp	Flying	[Flying] Deals extra damage = Bld.
+Giga Levin Swordp	Mystical	[Mystical] Deals extra damage = half of Mag.
+Contract	Dragon	[Dragon] Grants Str/Mag/Def/Res+2 to ally during action.
+Contract	Backup	[Backup] Unit participates in chain attack during ally action.
+Contract	Covert	[Covert] Grants Hit/Avo+30 to ally during action.
+Summon Hero	Dragon	[Dragon] Summons a powerful unit.
+Summon Hero	Backup	[Backup] Summoned unit has the “Dual Strike” skill.
+Summon Hero	Cavalry	[Cavarly] Summoned unit gets Mov+1.

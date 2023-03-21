@@ -1,4 +1,15 @@
 ID	DisplayName	Description	ConflictSkillIds
+Skill Inheritance	Skill Inheritance	Unit can inherit this Emblem’s skills.	
+Strong Bond	Strong Bond	Unit stays engaged 1 additional turn.	
+Deep Synergy	Deep Synergy	Unit's engage meter is shortened one step.	
+Sword Prof	Sword Prof.	Proficiency with swords. Required for promotion to certain classes.	
+Lance Prof	Lance Prof.	Proficiency with lances. Required for promotion to certain classes.	
+Axe Prof	Axe Prof.	Proficiency with axes. Required for promotion to certain classes.	
+Bow Prof	Bow Prof.	Proficiency with bows. Required for promotion to certain classes.	
+Knife Prof	Knife Prof.	Proficiency with knives. Required for promotion to certain classes.	
+Tome Prof	Tome Prof.	Proficiency with tomes. Required for promotion to certain classes.	
+Staff Prof	Staff Prof.	Proficiency with staves. Required for promotion to certain classes.	
+Arts Prof	Arts Prof.	Proficiency with arts. Required for promotion to certain classes.	
 Divinely Inspiring	Divinely Inspiring	Adjacent allies deal +3 damage and take 1 less damage.	
 Alabaster Duty	Alabaster Duty	If unit is adjacent to the Divine Dragon, grants Crit+5 during combat to both of them.	
 Verdant Faith	Verdant Faith	If unit is adjacent to the Divine Dragon, grants Hit+10 during combat to both of them.	
@@ -70,6 +81,7 @@ Special Dance	Special Dance	If unit uses Dance, grants Dex/Spd/Lck+3 to target f
 Perceptive	Perceptive	If the unit initiates combat, grants Avo+15 during combat. Avo increases with high Spd.	Perceptivep
 Avoid p10	Avoid +10	Grants Avo+10.	Avoid p15, Avoid p20, Avoid p25, Avoid p30
 Divine Speed	Divine Speed	Unit performs an extra attack at 50% damage in combat.	
+Lodestar Rush	Lodestar Rush	Use to launch 7 consecutive sword attacks at 30% damage. Adjacent foe only.	
 Sword Agility 1	Sword Agility 1	Grants Avo+10 at a cost of Crit-10 when using a sword.	Sword Agility 2, Sword Agility 3, Sword Agility 4, Sword Agility 5
 Break Defenses	Break Defenses	If unit’s attack breaks foe, unit makes an extra attack at 50% damage.	
 Avoid p15	Avoid +15	Grants Avo+15.	Avoid p10, Avoid p20, Avoid p25, Avoid p30
@@ -84,3 +96,341 @@ Perceptivep	Perceptive+	If the unit initiates combat, grants Avo+30 during comba
 Sword Agility 5	Sword Agility 5	Grants Avo+30 at a cost of Crit-10 when using a sword.	Sword Agility 1, Sword Agility 2, Sword Agility 3, Sword Agility 4
 Unyieldingpp	Unyielding++	At start of player phase, if HP is 40% or less, restores 40% of unit’s max HP.	Unyielding, Unyieldingp
 Avoid p30	Avoid +30	Grants Avo+30.	Avoid p10, Avoid p15, Avoid p20, Avoid p25
+Canter	Canter	Unit can move 2 spaces after acting.	Canterp
+Hit p10	Hit +10	Grants Hit+10.	Hit p15, Hit p20, Hit p25, Hit p30
+Gallop	Gallop	Grants Mov+5.	
+Override	Override	Use to attack and move through a line of adjacent foes. Sword/lance only.	
+Lance Power 1	Lance Power 1	Grants Atk+2 at a cost of Avo-10 when using a lance.	Lance Power 2, Lance Power 3, Lance Power 4, Lance Power 5
+Momentum	Momentum	Grants Atk+1 to first attack during combat for each space unit moved before attacking. (Max +10)	Momentump
+Hit p15	Hit +15	Grants Hit+15.	Hit p10, Hit p20, Hit p25, Hit p30
+Lance Power 2	Lance Power 2	Grants Atk+4 at a cost of Avo-10 when using a lance.	Lance Power 1, Lance Power 3, Lance Power 4, Lance Power 5
+Headlong Rush	Headlong Rush	Grants immunity to freeze.	
+Lance Power 3	Lance Power 3	Grants Atk+6 at a cost of Avo-10 when using a lance.	Lance Power 1, Lance Power 2, Lance Power 4, Lance Power 5
+Hit p20	Hit +20	Grants Hit+20.	Hit p10, Hit p15, Hit p25, Hit p30
+Canterp	Canter+	Unit can move 3 spaces after acting.	Canter
+Lance Power 4	Lance Power 4	Grants Atk+8 at a cost of Avo-10 when using a lance.	Lance Power 1, Lance Power 2, Lance Power 3, Lance Power 5
+Hit p25	Hit +25	Grants Hit+25.	Hit p10, Hit p15, Hit p20, Hit p30
+Momentump	Momentum+	Grants Atk+1 to first attack during combat for each space unit moved before attacking.	Momentum
+Lance Power 5	Lance Power 5	Grants Atk+10 at a cost of Avo-10 when using a lance.	Lance Power 1, Lance Power 2, Lance Power 3, Lance Power 4
+Hit p30	Hit +30	Grants Hit+30.	Hit p10, Hit p15, Hit p20, Hit p25
+Magic p2	Magic +2	Grants Mag+2.	Magic p3, Magic p4, Magic p5
+Holy Stance	Holy Stance	If a Corrupted attacks unit, deals 10% of damage taken back to foe.	Holy Stancep, Holy Stancepp
+Echo	Echo	Use to attack with magic at 50% damage. Use a second time to launch another 50% attack.	
+Warp Ragnarok	Warp Ragnarok	Use to warp up to 10 spaces and make a powerful magic attack,	
+Magic p3	Magic +3	Grants Mag+3.	Magic p2, Magic p4, Magic p5
+Resonance	Resonance	When equipped with a tome, if unit’s HP is 2 or more, unit loses 1 HP at start of combat and deals +2 damage during combat.	
+Tome Precision 1	Tome Precision 1	Grants Hit/Avo+3 when using a tome.	Tome Precision 2, Tome Precision 3, Tome Precision 4, Tome Precision 5
+Tome Precision 2	Tome Precision 2	Grants Hit/Avo+5 when using a tome.	Tome Precision 1, Tome Precision 3, Tome Precision 4, Tome Precision 5
+Favorite Food	Favorite Food	When unit eats a packed lunch, its engage meter is maxed out.	
+Tome Precision 3	Tome Precision 3	Grants Hit/Avo+7 when using a tome.	Tome Precision 1, Tome Precision 2, Tome Precision 4, Tome Precision 5
+Holy Stancep	Holy Stance+	If a Corrupted attacks unit, deals 30% of damage taken back to foe.	Holy Stance, Holy Stancepp
+Magic p4	Magic +4	Grants Mag+4.	Magic p2, Magic p3, Magic p5
+Tome Precision 4	Tome Precision 4	Grants Hit/Avo+10 when using a tome.	Tome Precision 1, Tome Precision 2, Tome Precision 3, Tome Precision 5
+Tome Precision 5	Tome Precision 5	Grants Hit/Avo+15 when using a tome.	Tome Precision 1, Tome Precision 2, Tome Precision 3, Tome Precision 4
+Holy Stancepp	Holy Stance++	If a Corrupted attacks unit, deals 50% of damage taken back to foe.	Holy Stance, Holy Stancep
+Magic p5	Magic +5	Grants Mag+5.	Magic p2, Magic p3, Magic p4
+Resistance p2	Resistance +2	Grants Res+2.	Resistance p3, Resistance p4, Resistance p5
+Cleric	Cleric	Unit can equip staves up to level C.	Clericp, Clericpp
+Augment	Augment	Grants staff range +5 and area of effect +1.	
+Great Sacrifice	Great Sacrifice	Use to restore full HP to all allies, even those not under the player’s control. After use, unit’s HP=1.	
+Staff Mastery 1	Staff Mastery 1	Grants Hit+10 when using a staff. Staves also heal an additional 3 HP.	Staff Mastery 2, Staff Mastery 3, Staff Mastery 4, Staff Mastery 5
+Healing Light	Healing Light	When unit heals an ally with a staff, unit also recovers HP=50% of the amount healed.	
+Resistance p3	Resistance +3	Grants Res+3.	Resistance p2, Resistance p4, Resistance p5
+Silence Ward	Silence Ward	Grants immunity to silence.	
+Staff Mastery 2	Staff Mastery 2	Grants Hit+15 when using a staff. Staves also heal an additional 5 HP.	Staff Mastery 1, Staff Mastery 3, Staff Mastery 4, Staff Mastery 5
+Staff Mastery 3	Staff Mastery 3	Grants Hit+20 when using a staff. Staves also heal an additional 7 HP.	Staff Mastery 1, Staff Mastery 2, Staff Mastery 4, Staff Mastery 5
+Clericp	Cleric+	Unit can equip staves up to level B.	Cleric, Clericpp
+Resistance p4	Resistance +4	Grants Res+4.	Resistance p2, Resistance p3, Resistance p5
+Staff Mastery 4	Staff Mastery 4	Grants Hit+25 when using a staff. Staves also heal an additional 10 HP.	Staff Mastery 1, Staff Mastery 2, Staff Mastery 3, Staff Mastery 5
+Staff Mastery 5	Staff Mastery 5	Grants Hit+30 when using a staff. Staves also heal an additional 15 HP.	Staff Mastery 1, Staff Mastery 2, Staff Mastery 3, Staff Mastery 4
+Clericpp	Cleric++	Unit can equip staves up to level A.	Cleric, Clericp
+Resistance p5	Resistance +5	Grants Res+5.	Resistance p2, Resistance p3, Resistance p4
+Strength p1	Strength +1	Grants Str+1.	Strength p2, Strength p3, Strength p4, Strength p5, Strength p6
+Hold Out	Hold Out	If unit had 30% HP or more at start of combat, unit always survives combat with at least 1 HP.	Hold Outp, Hold Outpp, Hold Outppp
+Rise Above	Rise Above	Grants Lvl+5.	
+Blazing Lion	Blazing Lion	Use to attack adjacent foe and an area 3 spaces wide. Target area and the 2 rows beyond it are set on fire. Sword only.	
+Strength p2	Strength +2	Grants Str+2.	Strength p1, Strength p3, Strength p4, Strength p5, Strength p6
+Advance	Advance	Use to move 1 space toward a foe that is 2 spaces away and attack.	
+Sword Power 1	Sword Power 1	Grants Atk+2 at a cost of Avo-10 when using a sword.	Sword Power 2, Sword Power 3, Sword Power 4, Sword Power 5
+Sword Power 2	Sword Power 2	Grants Atk+4 at a cost of Avo-10 when using a sword.	Sword Power 1, Sword Power 3, Sword Power 4, Sword Power 5
+Hold Outp	Hold Out+	If unit had 20% HP or more at start of combat, unit always survives combat with at least 1 HP.	Hold Out, Hold Outpp, Hold Outppp
+Strength p3	Strength +3	Grants Str+3,	Strength p1, Strength p2, Strength p4, Strength p5, Strength p6
+Sword Power 3	Sword Power 3	Grants Atk+6 at a cost of Avo-10 when using a sword.	Sword Power 1, Sword Power 2, Sword Power 4, Sword Power 5
+Sword Power 4	Sword Power 4	Grants Atk+8 at a cost of Avo-10 when using a sword.	Sword Power 1, Sword Power 2, Sword Power 3, Sword Power 5
+Hold Outpp	Hold Out++	If unit had 10% HP or more at start of combat, unit always survives combat with at least 1 HP.	Hold Out, Hold Outp, Hold Outppp
+Strength p4	Strength +4	Grants Str+4.	Strength p1, Strength p2, Strength p3, Strength p5, Strength p6
+Sword Power 5	Sword Power 5	Grants Atk+10 at a cost of Avo-10 when using a sword.	Sword Power 1, Sword Power 2, Sword Power 3, Sword Power 4
+Strength p5	Strength +5	Grants Str+5.	Strength p1, Strength p2, Strength p3, Strength p4, Strength p6
+Hold Outppp	Hold Out+++	If unit had 2 HP or more at start of combat, unit always survives combat with at least 1 HP.	Hold Out, Hold Outp, Hold Outpp
+Strength p6	Strength +6	Grants Str+6.	Strength p1, Strength p2, Strength p3, Strength p4, Strength p5
+Build p3	Build +3	Grants Bld+3.	Build p4, Build p5
+Arms Shield	Arms Shield	When unit has weapon advantage, unit takes 3 less damage.	Arms Shieldp, Arms Shieldpp
+Adaptable	Adaptable	If foe initiates combat, unit counters with the best weapon available (in terms of range, weapon advantage, effective bonus, etc.).	
+Quadruple Hit	Quadruple Hit	Use to attack once each with sword, lance, axe, and bow.	
+Vantage	Vantage	If unit’s HP is 25% or less and foe initiates combat, unit can counter before foe’s first attack.	Vantagep, Vantagepp
+Knife Precision 1	Knife Precision 1	Grants Hit/Avo+3 when using a knife.	Knife Precision 2, Knife Precision 3, Knife Precision 4, Knife Precision 5
+Build p4	Build +4	Grants Bld+4.	Build p3, Build p5
+Arms Shieldp	Arms Shield+	When unit has weapon advantage, unit takes 5 less damage.	Arms Shield, Arms Shieldpp
+Knife Precision 2	Knife Precision 2	Grants Hit/Avo+5 when using a knife.	Knife Precision 1,Knife Precision 3, Knife Precision 4, Knife Precision 5
+Vantagep	Vantage+	If unit’s HP is 50% or less and foe initiates combat, unit can counter before foe’s first attack.	Vantage, Vantagepp
+Knife Precision 3	Knife Precision 3	Grants Hit/Avo+7 when using a knife.	Knife Precision 1, Knife Precision 2, Knife Precision 4, Knife Precision 5
+Build p5	Build +5	Grants Bld+5.	Build p3, Build p4
+Arms Shieldpp	Arms Shield++	When unit has weapon advantage, unit takes 7 less damage.	Arms Shield, Arms Shieldp
+Knife Precision 4	Knife Precision 4	Grants Hit/Avo+10 when using a knife.	Knife Precision 1, Knife Precision 2, Knife Precision 3, Knife Precision 5
+Vantagepp	Vantage++	If unit’s HP is 75% or less and foe initiates combat, unit can counter before foe’s first attack.	Vantage, Vantagep
+Knife Precision 5	Knife Precision 5	Grants Hit/Avo+15 when using a knife.	Knife Precision 1, Knife Precision 2, Knife Precision 3, Knife Precision 4
+Dexterity p1	Dexterity +1	Grants Dex+1.	Dexterity p2, Dexterity p3, Dexterity p4, Dexterity p5
+Dual Strike	Dual Strike	Unit participates in chain attacks as if it were a backup unit.	
+Bonded Shield	Bonded Shield	Use to prevent first attacks on adjacent allies until your next turn. Trigger %=80.	
+All For One	All For One	Use to make a sword attack against an adjacent foe. All allies within 2 spaces chain attack.	
+Dexterity p2	Dexterity +2	Grants Dex+2.	Dexterity p1, Dexterity p3, Dexterity p4, Dexterity p5
+Dual Assist	Dual Assist	If unit is able to chain attack, unit will do so when allies attack foes unit could reach by moving. Trigger %=35.	Dual Assistp
+Bow Agility 1	Bow Agility 1	Grants Avo+10 at a cost of Crit-10 when using a bow.	Bow Agility 2, Bow Agility 3, Bow Agility 4, Bow Agility 5
+Bow Agility 2	Bow Agility 2	Grants Avo+15 at a cost of Crit-10 when using a bow.	Bow Agility 1, Bow Agility 3, Bow Agility 4, Bow Agility 5
+Dexterity p3	Dexterity +3	Grants Dex+3.	Dexterity p2, Dexterity p4, Dexterity p5
+Bow Agility 3	Bow Agility 3	Grants Avo+20 at a cost of Crit-10 when using a bow.	Bow Agility 1, Bow Agility 2, Bow Agility 4, Bow Agility 5
+Dual Support	Dual Support	Grants a bonus to Avo that increases with unit’s support level with adjacent allies. (Max +90) [+5 Avoid for each support level. None = 1, C = 2, B = 3, A = 4, S = 6.]	
+Bow Agility 4	Bow Agility 4	Grants Avo+25 at a cost of Crit-10 when using a bow.	Bow Agility 1, Bow Agility 2, Bow Agility 3, Bow Agility 5
+Dexterity p4	Dexterity +4	Grants Dex+4.	Dexterity p1, Dexterity p2, Dexterity p3, Dexterity p5
+Bow Agility 5	Bow Agility 5	Grants Avo+30 at a cost of Crit-10 when using a bow.	Bow Agility 1, Bow Agility 2, Bow Agility 3, Bow Agility 4
+Dual Assistp	Dual Assist+	If unit is able to chain attack, unit will do so when allies attack foes unit could reach by moving. Trigger %=70.	Dual Assist
+Dexterity p5	Dexterity +5	Grants Dex+5.	Dexterity p1, Dexterity p2, Dexterity p3, Dexterity p4
+Speed p1	Speed +1	Grants Spd+1.	Speed p2, Speed p3, Speed p4, Speed p5
+Alacrity	Alacrity	If unit initiates combat with a Spd advantage of 9 or more, unit’s follow-up (if possible) occurs before foe can counterattack.	Alacrity, Alacrityp, Alacritypp
+Call Doubles	Call Doubles	Creates four illusory doubles that can make chain attacks with unit.	
+Astra Storm	Astra Storm	Use to launch 5 bow attacks at 30% damage, up to range 10.	
+Speed p2	Speed +2	Grants Spd+2.	Speed p1, Speed p3, Speed p4, Speed p5
+Speedtaker	Speedtaker	Grants a stacking Spd+2 each time unit initiates combat and defeats a foe. Bonus lasts for the rest of the battle. (Max +10)	
+Bow Focus 1	Bow Focus 1	Grants Hit+10 at a cost of Ddg-10 when using a bow.	Bow Focus 2, Bow Focus 3, Bow Focus 4, Bow Focus 5
+Bow Focus 2	Bow Focus 2	Grants Hit+15 at a cost of Ddg-10 when using a bow.	Bow Focus 1, Bow Focus 3, Bow Focus 4, Bow Focus 5
+Speed p3	Speed +3	Grants Spd+3.	Speed p1, Speed p2, Speed p4, Speed p5
+Bow Focus 3	Bow Focus 3	Grants Hit+20 at a cost of Ddg-10 when using a bow.	Bow Focus 1, Bow Focus 2, Bow Focus 4, Bow Focus 5
+Alacrityp	Alacrity+	If unit initiates combat with a Spd advantage of 7 or more, unit’s follow-up (if possible) occurs before foe can counterattack.	Alacrity, Alacritypp
+Bow Focus 4	Bow Focus 4	Grants Hit+25 at a cost of Ddg-10 when using a bow.	Bow Focus 1, Bow Focus 2, Bow Focus 3, Bow Focus 5
+Speed p4	Speed +4	Grants Spd+4.	Speed p1, Speed p2, Speed p3, Speed p5
+Bow Focus 5	Bow Focus 5	Grants Hit+30 at a cost of Ddg-10 when using a bow.	Bow Focus 1, Bow Focus 2, Bow Focus 3, Bow Focus 4
+Alacritypp	Alacrity++	If unit initiates combat with a Spd advantage of 5 or more, unit’s follow-up (if possible) occurs before foe can counterattack.	Alacrity, Alacrityp
+Speed p5	Speed +5	Grants Spd+5.	Speed p1, Speed p2, Speed p3, Speed p4
+Defense p1	Defense +1	Grants Def+1.	Defense p2, Defense p3, Defense p4, Defense p5
+Demolish	Demolish	Break destructible terrain in a single blow when using Destroy.	
+Resolve	Resolve	If unit’s HP is 75% or less after combat, grants Def/Res+5 as long as unit’s HP stays below 75%.	Resolvep
+Laguz Friend	Laguz Friend	Unit takes 50% less damage, but sets unit’s Avo to 0.	
+Great Aether	Great Aether	Use to grant Def/Res+5, but unit can’t counter for 1 turn. Next turn, attack a 2-space area, heal HP=30% of damage dealt. Sword/axe only.	
+Defense p2	Defense +2	Grants Def+2.	Defense p1, Defense p3, Defense p4, Defense p5
+Reposition	Reposition	Use to move an adjacent ally to the opposite side of unit.	
+Axe Power 1	Axe Power 1	Grants Atk+2 at a cost of Avo-10 when using an axe.	Axe Power 2, Axe Power 3, Axe Power 4, Axe Power 5
+Axe Power 2	Axe Power 2	Grants Atk+4 at a cost of Avo-10 when using an axe.	Axe Power 1, Axe Power 3, Axe Power 4, Axe Power 5
+Defense p3	Defense +3	Grants Def+3.	Defense p1, Defense p2, Defense p4, Defense p5
+Axe Power 3	Axe Power 3	Grants Atk+6 at a cost of Avo-10 when using an axe.	Axe Power 1, Axe Power 2, Axe Power 4, Axe Power 5
+Wrath	Wrath	At start of combat, for each HP the unit has lost, grants Crit+1 during combat. (Max +30)	
+Axe Power 4	Axe Power 4	Grants Atk+8 at a cost of Avo-10 when using an axe.	Axe Power 1, Axe Power 2, Axe Power 3, Axe Power 5
+Defense p4	Defense +4	Grants Def+4.	Defense p1, Defense p2, Defense p3, Defense p5
+Axe Power 5	Axe Power 5	Grants Atk+10 at a cost of Avo-10 when using an axe.	Axe Power 1, Axe Power 2, Axe Power 3, Axe Power 4
+Resolvep	Resolve+	If unit’s HP is 75% or less after combat, grants Def/Res+7 as long as unit’s HP stays below 75%.	Resolve
+Defense p5	Defense +5	Grants Def+5.	Defense p1, Defense p2, Defense p3, Defense p4
+Luck p2	Luck +2	Grants Lck+2.	Luck p2, Luck p4, Luck p6, Luck p8, Luck p10, Luck p12
+Divine Pulse	Divine Pulse	May turn a missed attack into a hit. Trigger %=30. Chance increases with high Lck. [+1% for every 1 Luck.]	Divine Pulsep
+Instruct	Instruct	Use to grant allies within 2 spaces a stat bonus based on user’s type. Bonus lasts for 1 turn.	
+Goddess Dance	Goddess Dance	Use to grant another action to all adjacent allies.	
+Luck p4	Luck +4	Grants Lck+4.	Luck p4, Luck p6, Luck p8, Luck p10, Luck p12
+Mentorship	Mentorship	Grants 1.2× EXP modifier to unit and adjacent allies.	
+Art Focus 1	Art Focus 1	Grants Hit+10 at a cost of Ddg-10 when using an art.	Art Focus 2, Art Focus 3, Art Focus 4, Art Focus 5
+Art Focus 2	Art Focus 2	Grants Hit+15 at a cost of Ddg-10 when using an art.	Art Focus 1, Art Focus 3, Art Focus 4, Art Focus 5
+Art Focus 3	Art Focus 3	Grants Hit+20 at a cost of Ddg-10 when using an art.	Art Focus 1, Art Focus 2, Art Focus 4, Art Focus 5
+Luck p6	Luck +6	Grants Lck+6.	Luck p2, Luck p4, Luck p8, Luck p10, Luck p12
+Art Focus 4	Art Focus 4	Grants Hit+25 at a cost of Ddg-10 when using an art.	Art Focus 1, Art Focus 2, Art Focus 3, Art Focus 5
+Lost n Found	Lost & Found	If unit finishes an action or waits next to an ally, may find an item and increase support with that ally. Trigger %=Lck.	
+Art Focus 5	Art Focus 5	Grants Hit+30 at a cost of Ddg-10 when using an art.	Art Focus 1, Art Focus 2, Art Focus 3, Art Focus 4
+Luck p8	Luck +8	Grants Lck+8.	Luck p2, Luck p4, Luck p6, Luck p10, Luck p12
+Luck p10	Luck +10	Grants Lck+10.	Luck p2, Luck p4, Luck p6, Luck p8, Luck p12
+Divine Pulsep	Divine Pulse+	May turn a missed attack into a hit. Trigger %=50. Chance increases with high Lck. [+1% for every 1 Luck.]	Divine Pulse
+Luck p12	Luck +12	Grants Lck+12.	Luck p2, Luck p4, Luck p6, Luck p8, Luck p10
+HP p5	HP +5	Grants max HP+5.	HP p7, HP p10, HP p12, HP p15
+Dragon Vein	Dragon Vein	Use to add a special effect to certain spaces.	
+Dreadful Aura	Dreadful Aura	If unit initiates combat, target foe and all foes within 1 space of it cannot move for 1 turn after combat.	
+Torrential Roar	Torrential Roar	Use to attack 3 spaces in a line, turning those spaces into water terrain.	
+HP p7	HP +7	Grants max HP+7.	HP p5, HP p10, HP p12, HP p15
+Quality Time	Quality Time	After unit acts or waits, restores 5 HP to adjacent allies and slightly increases support with them.	Quality Timep
+Sword Focus 1	Sword Focus 1	Grants Hit+10 at a cost of Ddg-10 when using a sword.	Sword Focus 2, Sword Focus 3, Sword Focus 4, Sword Focus 5
+Sword Focus 2	Sword Focus 2	Grants Hit+15 at a cost of Ddg-10 when using a sword.	Sword Focus 1, Sword Focus 3, Sword Focus 4, Sword Focus 5
+Draconic Hex	Draconic Hex	If unit initiates combat, inflicts -4 to all of foe’s basic stats after combat. (Penalties shrink by 1 each turn.)	
+HP p10	HP +10	Grants max HP+10.	HP p5, HP p7, HP p12, HP p15
+Sword Focus 3	Sword Focus 3	Grants Hit+20 at a cost of Ddg-10 when using a sword.	Sword Focus 1, Sword Focus 2, Sword Focus 4, Sword Focus 5
+Pair Up	Pair Up	Prevents damage from foes’ chain attacks against unit.	
+Sword Focus 4	Sword Focus 4	Grants Hit+25 at a cost of Ddg-10 when using a sword.	Sword Focus 1, Sword Focus 2, Sword Focus 3, Sword Focus 5
+HP p12	HP +12	Grants max HP+12.	HP p5, HP p7, HP p10, HP p15
+Sword Focus 5	Sword Focus 5	Grants Hit+30 at a cost of Ddg-10 when using a sword.	Sword Focus 1, Sword Focus 2, Sword Focus 3, Sword Focus 4
+Quality Timep	Quality Time+	After unit acts or waits, restores 10 HP to adjacent allies and slightly increases support with them.	Quality Time
+HP p15	HP +15	Grants max HP+15.	HP p5, HP p7, HP p10, HP p12
+Lunar Brace	Lunar Brace	If unit initiates combat with a physical attack, deals extra damage=20% of foe’s Def.	
+Solar Brace	Solar Brace	If unit initiates combat, unit recovers HP=30% of damage dealt.	
+Eclipse Brace	Eclipse Brace	If unit initiates combat, unit deals extra damage=20% of foe’s Def with physical attacks and recovers HP=30% of damage dealt.	
+Dodge p10	Dodge +10	Grants Ddg+10.	Dodge p15, Dodge p20, Dodge p25, Dodge p30
+Night and Day	Night and Day	Use to switch Emblems and swap between Lunar Brace/Gentility and Solar Brace/Bravery for all allies.	
+Sacred Twins	Sacred Twins	While engaged with Eirika, changes Lunar Brace to Eclipse Brace and Gentility to Blue Skies for all allies.	
+Twin Strike	Twin Strike	Use to make a sword attack followed by a lance attack from Ephraim on adjacent foe. Effective: Corrupted.	
+Rapier	Rapier	Sword wielded by Emblem Marth. Effective: Cavalry, Armored.	
+Lance Agility 1	Lance Agility 1	Grants Avo+10 at a cost of Crit-10 when using a lance.	Lance Agility 2, Lance Agility 3, Lance Agility 4, Lance Agility 5
+Gentility	Gentility	Unit takes 3 less damage.	
+Bravery	Bravery	Unit deals +3 damage.	
+Blue Skies	Blue Skies	Unit takes 3 less damage and deals +3 damage.	
+Dodge p15	Dodge +15	Grants Ddg+15.	Dodge p10, Dodge p20, Dodge p25, Dodge p30
+Lance Agility 2	Lance Agility 2	Grants Avo+15 at a cost of Crit-10 when using a lance.	Lance Agility 1, Lance Agility 3, Lance Agility 4, Lance Agility 5
+Dodge p20	Dodge +20	Grants Ddg+20.	Dodge p10, Dodge p15, Dodge p25, Dodge p30
+Wind Sword	Wind Sword	Magical sword wielded by Emblem Eirika. Can strike close or at range. Effective: Flying.	
+Lance Agility 3	Lance Agility 3	Grants Avo+20 at a cost of Crit-10 when using a lance.	Lance Agility 1, Lance Agility 2, Lance Agility 4, Lance Agility 5
+Lunar Bracep	Lunar Brace+	If unit initiates combat with a physical attack, deals extra damage=30% of foe’s Def.	
+Solar Bracep	Solar Brace+	If unit initiates combat, unit recovers HP=50% of damage dealt.	
+Eclipse Bracep	Eclipse Brace+	If unit initiates combat, unit deals extra damage=30% of foe’s Def with physical attacks and recovers HP=50% of damage dealt.	
+Dodge p25	Dodge +25	Grants Ddg+25.	Dodge p10, Dodge p15, Dodge p20, Dodge p30
+Sieglinde	Sieglinde	Paired sword wielded by Emblem Eirika. Effective: Corrupted.	
+Lance Agility 4	Lance Agility 4	Grants Avo+25 at a cost of Crit-10 when using a lance.	Lance Agility 1, Lance Agility 2, Lance Agility 3, Lance Agility 5
+Lance Agility 5	Lance Agility 5	Grants Avo+30 at a cost of Crit-10 when using a lance.	Lance Agility 1, Lance Agility 2, Lance Agility 3, Lance Agility 4
+Gentilityp	Gentility+	Unit takes 5 less damage.	
+Braveryp	Bravery+	Unit deals +5 damage.	
+Blue Skiesp	Blue Skies+	Unit takes 5 less damage and deals +5 damage.	
+Dodge p30	Dodge +30	Grants Ddg+30.	Dodge p10, Dodge p15, Dodge p20, Dodge p25
+Holy Aura	Holy Aura	Unit is Effective: Fell Dragon. Allies within 2 spaces with Effective: Dragon gain Effective: Fell Dragon. [Might multiplier of 2.]	
+Attuned	Attuned	If unit initiates combat and defeats foe, grants engage partner +4 to all seven basic stats while engaged.	
+Dragon Blast	Dragon Blast	Use to make two attacks against an adjacent foe with a sword and powerful magic beam.	
+Bond Blast	Bond Blast	Use to make a sword attack from the unit and engage partner followed by a magic beam attack against an adjacent foe.	
+Bond Forger	Bond Forger	Grants Hit/Avo+20 to unit and allies within 2 spaces that are synced or engaged with an Emblem.	Bond Forgerp
+Bond Forgerp	Bond Forger+	Grants Hit/Avo+30 to unit and allies within 2 spaces that are synced or engaged with an Emblem.	Bond Forger
+Holy Shield	Holy Shield	Neutralizes Effective against this unit.	
+Boon of Elyos	Boon of Elyos	If unit initiates combat, grants bonus to Crit and Ddg equal to 2× the number of allies who have acted this turn.	
+Gambit	Gambit	Effects change based on synced Emblem.	
+Flame Gambit	Flame Gambit	Use when synced with Edelgard to attack a foe, then set the target foe’s space and nearby spaces on fire.	
+Shield Gambit	Shield Gambit	Use when synced with Dimitri to negate damage from first attacks of ranged foes targeting unit in next enemy phase.	
+Poison Gambit	Poison Gambit	Use when synced with Claude to attack a foe, then poison target and all foes adjacent to it after combat.	
+Friendly Rivalry	Friendly Rivalry	At start of player phase, the Emblem will randomly switch to Edelgard, Dimitri, or Claude.	
+Combat Arts	Combat Arts	Enables use of Edelgard, Dimitri, or Claude’s Combat Art. Spends some remaining engage turns.	
+Raging Storm	Raging Storm	After combat, take another action. (Spend 3 turns.)	
+Atrocity	Atrocity	Attack at double weapon’s Mt. (Spend 1 turn.)	
+Fallen Star	Fallen Star	Avoid foe’s attacks during next combat. (Spend 1 turn.)	
+Houses Unite	Houses Unite	Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage.	
+Houses Unitep	Houses Unite+	Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage. After combat, take another action. (Requires adjacent Byleth)	
+Assembly Gambit	Assembly Gambit	Use to attack an adjacent foe, then move 1 space away after combat. Target foe moves to unit’s previous space.	
+StrDex p1	Str/Dex +1	Grants Str+1 and Dex+1.	StrDex p2, StrDex p3, StrDex p4, StrDex p5
+Lineage	Lineage	Increases unit’s earned experience by 20%.	
+Bow Guard 1	Bow Guard 1	If foe is equipped with a bow, unit takes 1 less damage during combat.	Bow Guard 2, Bow Guard 3, Bow Guard 4, Bow Guard 5
+Skill Inheritance	Skill Inheritance	Unit can inherit this Emblem’s skills.	
+StrDex p2	Str/Dex +2	Grants Str+2 and Dex+2.	StrDex p1, StrDex p3, StrDex p4, StrDex p5
+Bow Guard 2	Bow Guard 2	If foe is equipped with a bow, unit takes 2 less damage during combat.	Bow Guard 1, Bow Guard 3, Bow Guard 4, Bow Guard 5
+Weapon Sync	Weapon Sync	If unit initiates combat using same weapon type as the synced Emblem, grants Atk+5. If engaged, grants Atk+5 regardless of weapon type.	Weapon Syncp
+StrDex p3	Str/Dex +3	Grants Str+3 and Dex+3.	StrDex p1, StrDex p2, StrDex p4, StrDex p5
+Bow Guard 3	Bow Guard 3	If foe is equipped with a bow, unit takes 3 less damage during combat.	Bow Guard 1, Bow Guard 2, Bow Guard 4, Bow Guard 5
+StrDex p4	Str/Dex +4	Grants Str+4 and Dex+4.	StrDex p1, StrDex p2, StrDex p3, StrDex p5
+Weapon Syncp	Weapon Sync+	If unit initiates combat using same weapon type as the synced Emblem, grants Atk+7. If engaged, grants Atk+7 regardless of weapon type.	Weapon Sync
+Bow Guard 4	Bow Guard 4	If foe is equipped with a bow, unit takes 4 less damage during combat.	Bow Guard 1, Bow Guard 2, Bow Guard 3, Bow Guard 5
+StrDex p5	Str/Dex +5	Grants Str+5 and Dex+5.	StrDex p1, StrDex p2, StrDex p3, StrDex p4
+Bow Guard 5	Bow Guard 5	If foe is equipped with a bow, unit takes 5 less damage during combat.	Bow Guard 1, Bow Guard 2, Bow Guard 3, Bow Guard 4
+Starsphere	Starsphere	Grants unit enhanced stat growth when leveling up. [Adds +15% to final growth rates.]	
+Draconic Form	Draconic Form	Unit transforms into and fights as a dragon while engaged. Grants +10 to max HP and +5 to Bld and all basic stats.	
+Divine Blessing	Divine Blessing	Use to grant 1 ally a Revival Stone.	
+Divine Blessingp	Divine Blessing+	Use to grant 1 ally a Revival Stone. If ally is not synced, fully restore HP. If ally is synced, +3 to engage meter. If ally is engaged, restore engage turns. (Requires adjacent Marth)	
+HPLck p2	HP/Lck +2	Grants HP+2 and Lck+2.	HPLck p4, HPLck p6, HPLck p8, HPLck p10
+Geosphere	Geosphere	At start of player phase, if there are allies adjacent to unit, grants Def/Res+3 to unit and those allies for 1 turn.	Geospherep
+Special Guard 1	Special Guard 1	If foe is equipped with a special attack, unit takes 1 less damage during combat.	Special Guard 2, Special Guard 3, Special Guard 4, Special Guard 5
+HPLck p4	HP/Lck +4	Grants HP+4 and Lck+4.	HPLck p2, HPLck p6, HPLck p8, HPLck p10
+Lifesphere	Lifesphere	If unit uses Wait without attacking or using items, restores 20 HP and heals status effects.	Lifespherep, Lifespherepp
+Special Guard 2	Special Guard 2	If foe is equipped with a special attack, unit takes 2 less damage during combat.	Special Guard 1, Special Guard 3, Special Guard 4, Special Guard 5
+Lightsphere	Lightsphere	If unit initiates combat, halves chance of receiving critical hit from foe.	
+HPLck p6	HP/Lck +6	Grants HP+6 and Lck+6.	HPLck p2, HPLck p4, HPLck p8, HPLck p10
+Special Guard 3	Special Guard 3	If foe is equipped with a special attack, unit takes 3 less damage during combat.	Special Guard 1, Special Guard 2, Special Guard 4, Special Guard 5
+Lifespherep	Lifesphere+	If unit uses Wait without attacking or using items, restores 30 HP and heals status effects.	Lifesphere, Lifespherepp
+HPLck p8	HP/Lck +8	Grants HP+8 and Lck+8.	HPLck p2, HPLck p4, HPLck p6, HPLck p10
+Geospherep	Geosphere+	At start of player phase, if there are allies adjacent to unit, grants Def/Res+5 to unit and those allies for 1 turn.	Geosphere
+Special Guard 4	Special Guard 4	If foe is equipped with a special attack, unit takes 4 less damage during combat.	Special Guard 1, Special Guard 2, Special Guard 3, Special Guard 5
+HPLck p10	HP/Lck +10	Grants HP+10 and Lck+10.	HPLck p2, HPLck p4, HPLck p6, HPLck p8
+Lifespherepp	Lifesphere++	If unit uses Wait without attacking or using items, restores 40 HP and heals status effects.	Lifesphere, Lifespherep
+Special Guard 5	Special Guard 5	If foe is equipped with a special attack, unit takes 5 less damage during combat.	Special Guard 1, Special Guard 2, Special Guard 3, Special Guard 4
+Quick Riposte	Quick Riposte	If unit’s HP is 80% or more and foe initiates combat, unit will always follow up (if weapon allows).	Quick Ripostep
+Impenetrable	Impenetrable	If foe initiates combat, grants Def/Res+30% during combat.	
+Storms Eye	Storm’s Eye	Grants immunity to break. Foe cannot follow up. Unit follows up. Lasts 1 turn. Sword/axe only.	
+Storms Eyep	Storm’s Eye+	Grants immunity to break. Foe cannot follow up. Unit counters before foe’s first attack and follows up. Lasts 1 turn. Sword/axe only. (Requires adjacent Lyn)	
+StrDef p1	Str/Def +1	Grants Str+1 and Def+1.	StrDef p2, StrDef p3, StrDef p4, StrDef p5
+Adaptability	Adaptability	When hit by a foe’s attack, grants Def+2 for a physical attack or Res+2 for a magical attack after combat. Lasts until end of battle, or until activated again.	Adaptabilityp
+Axe Guard 1	Axe Guard 1	If foe is equipped with an axe, unit takes 1 less damage during combat.	Axe Guard 2, Axe Guard 3, Axe Guard 4, Axe Guard 5
+StrDef p2	Str/Def +2	Grants Str+2 and Def+2.	StrDef p1, StrDef p3, StrDef p4, StrDef p5
+Heavy Attack	Heavy Attack	When making a physical attack, if an equipped weapon’s Wt exceeds unit’s Bld, adds excess as damage. (Max +5)	
+Axe Guard 2	Axe Guard 2	If foe is equipped with an axe, unit takes 2 less damage during combat.	Axe Guard 1, Axe Guard 3, Axe Guard 4, Axe Guard 5
+StrDef p3	Str/Def +3	Grants Str+3 and Def+3.	StrDef p1, StrDef p2, StrDef p4, StrDef p5
+Piercing Glare	Piercing Glare	Use when HP is full to consume 20% of max HP and prevent foes from entering the 4 spaces diagonally adjacent to unit for 1 turn.	
+Axe Guard 3	Axe Guard 3	If foe is equipped with an axe, unit takes 3 less damage during combat.	Axe Guard 1, Axe Guard 2, Axe Guard 4, Axe Guard 5
+StrDef p4	Str/Def +4	Grants Str+4 and Def+4.	StrDef p1, StrDef p2, StrDef p3, StrDef p5
+Quick Ripostep	Quick Riposte+	If unit’s HP is 60% or more and foe initiates combat, unit will always follow up (if weapon allows).	Quick Riposte
+Axe Guard 4	Axe Guard 4	If foe is equipped with an axe, unit takes 4 less damage during combat.	Axe Guard 1, Axe Guard 2, Axe Guard 3, Axe Guard 5
+StrDef p5	Str/Def +5	Grants Str+5 and Def+5.	StrDef p1, StrDef p2, StrDef p3, StrDef p4
+Adaptabilityp	Adaptability+	When hit by a foe’s attack, grants Def+3 for a physical attack or Res+3 for a magical attack after combat. Lasts until end of battle, or until activated again.	Adaptability
+Axe Guard 5	Axe Guard 5	If foe is equipped with an axe, unit takes 5 less damage during combat.	Axe Guard 1, Axe Guard 2, Axe Guard 3, Axe Guard 4
+Assign Decoy	Assign Decoy	Use to make one chosen ally more likely to be targeted by enemies for 1 turn. Effect is removed after ally is targeted by or otherwise damaged by foes 3 times.	
+Flare	Flare	When attacking with tomes, inflicts Res-20% on foe, and unit recovers 50% of damage dealt.	
+Cataclysm	Cataclysm	Use to attack foes in an area with fire, thunder and wind magic at 40% damage. Wind is effective: Flying.	
+Cataclysmp	Cataclysm+	Use to attack foes in an area with fire, thunder and wind magic at 40% damage. Wind is effective: Flying.	
+MagRes p1	Mag/Res +1	Grants Mag+1 and Res+1.	MagRes p2, MagRes p3, MagRes p4, MagRes p5
+Magic Guard 1	Magic Guard 1	If foe is equipped with a tome, unit takes 1 less damage during combat.	Magic Guard 2, Magic Guard 3, Magic Guard 4, Magic Guard 5
+Anima Focus	Anima Focus	When using tomes, unit inflicts Def-3 with fire, Hit-20 with thunder, or Mov-2 with wind magic for 1 turn.	
+MagRes p2	Mag/Res +2	Grants Mag+2 and Res+2.	MagRes p1, MagRes p3, MagRes p4, MagRes p5
+Magic Guard 2	Magic Guard 2	If foe is equipped with a tome, unit takes 2 less damage during combat.	Magic Guard 1, Magic Guard 3, Magic Guard 4, Magic Guard 5
+Keen Insight	Keen Insight	When unit deals Effective damage, deal +5 damage.	Keen Insightp
+MagRes p3	Mag/Res +3	Grants Mag+3 and Res+3.	MagRes p1, MagRes p2, MagRes p4, MagRes p5
+Block Recovery	Block Recovery	When attacking a broken foe with a tome, grants a chance the foe will remain broken. Chance increases with high Spd.	
+Magic Guard 3	Magic Guard 3	If foe is equipped with a tome, unit takes 3 less damage during combat.	Magic Guard 1, Magic Guard 2, Magic Guard 4, Magic Guard 5
+MagRes p4	Mag/Res +4	Grants Mag+4 and Res+4.	MagRes p1, MagRes p2, MagRes p3, MagRes p5
+Magic Guard 4	Magic Guard 4	If foe is equipped with a tome, unit takes 4 less damage during combat.	Magic Guard 1, Magic Guard 2, Magic Guard 3, Magic Guard 5
+Keen Insightp	Keen Insight+	When unit deals Effective damage, deal +7 damage.	Keen Insight
+MagRes p5	Mag/Res +5	Grants Mag+5 and Res+5.	MagRes p1, MagRes p2, MagRes p3, MagRes p4
+Magic Guard 5	Magic Guard 5	If foe is equipped with a tome, unit takes 5 less damage during combat.	Magic Guard 1, Magic Guard 2, Magic Guard 3, Magic Guard 4
+SpdRes p1	Spd/Res +1	Grants Spd+1 and Res+1.	SpdRes p1, SpdRes p2, SpdRes p3, SpdRes p4, SpdRes p5
+Dragon Vein Camilla	Dragon Vein	Use to add a special effect to certain spaces.	
+Soar	Soar	Grants Mov+2. Unit can cross terrain as if flying.	
+Dark Inferno	Dark Inferno	Use to deal damage to foes on certain spaces near unit and set those spaces on fire.	
+Dark Infernop	Dark Inferno+	Use to deal damage to foes on certain spaces near unit and set those spaces on fire. (Requires adjacent Corrin)	
+Lance Guard 1	Lance Guard 1	If foe is equipped with a lance, unit takes 1 less damage during combat.	Lance Guard 2, Lance Guard 3, Lance Guard 4, Lance Guard 5
+SpdRes p2	Spd/Res +2	Grants Spd+2 and Res+2.	SpdRes p1, SpdRes p3, SpdRes p4, SpdRes p5
+Decisive Strike	Decisive Strike	If unit initiates combat and lands a critical, deals 5 damage to foe after combat.	Decisive Strikep
+Lance Guard 2	Lance Guard 2	If foe is equipped with a lance, unit takes 2 less damage during combat.	Lance Guard 1, Lance Guard 3, Lance Guard 4, Lance Guard 5
+Detoxify	Detoxify	Cures poison at start of turn.	
+SpdRes p3	Spd/Res +3	Grants Spd+3 and Res+3.	SpdRes p1, SpdRes p2, SpdRes p4, SpdRes p5
+Groundswell	Groundswell	After unit acts or waits in flames, miasma, or similar terrain effect, unit clears effect and recovers 10 HP.	
+Lance Guard 3	Lance Guard 3	If foe is equipped with a lance, unit takes 3 less damage during combat.	Lance Guard 1, Lance Guard 2, Lance Guard 4, Lance Guard 5
+SpdRes p4	Spd/Res +4	Grants Spd+4 and Res+4.	SpdRes p1, SpdRes p2, SpdRes p3, SpdRes p5
+Lance Guard 4	Lance Guard 4	If foe is equipped with a lance, unit takes 4 less damage during combat.	Lance Guard 1, Lance Guard 2, Lance Guard 3, Lance Guard 5
+Decisive Strikep	Decisive Strike+	If unit initiates combat and lands a critical, deals 10 damage to foe after combat.	Decisive Strike
+SpdRes p5	Spd/Res +5	Grants Spd+5 and Res+5.	SpdRes p1, SpdRes p2, SpdRes p3, SpdRes p4
+Lance Guard 5	Lance Guard 5	If foe is equipped with a lance, unit takes 5 less damage during combat.	Lance Guard 1, Lance Guard 2, Lance Guard 3, Lance Guard 4
+Surprise Attack	Surprise Attack	If unit initiates combat from terrain that provides an Avo bonus, foe cannot counterattack.	
+Other Half	Other Half	If unit initiates combat, Robin chain attacks. Grants Mag+10 while engaged.	
+Giga Levin Sword	Giga Levin Sword	Use to attack with a magic sword. Magic attack that uses physical attack power. Swords only.	
+Giga Levin Swordp	Giga Levin Sword+	Use to attack with a magic sword. Magic attack that uses physical attack power. Swords only. Adjacent allies chain attack. (requires adjacent Lucina)	
+SpdDex p1	Spd/Dex +1	Grants Spd+1 and Dex+1.	SpdDex p2, SpdDex p3, SpdDex p4, SpdDex p5
+Sword Guard 1	Sword Guard 1	If foe is equipped with a sword, unit takes 1 less damage during combat.	Sword Guard 2, Sword Guard 3, Sword Guard 4, Sword Guard 5
+Rally Spectrum	Rally Spectrum	Use to grant adjacent allies +3 to all seven basic stats for 1 turn.	Rally Spectrump
+SpdDex p2	Spd/Dex +2	Grants Spd+2 and Dex+2.	SpdDex p1, SpdDex p3, SpdDex p4, SpdDex p5
+Brute Force	Brute Force	While making a physical attack, critical hits deal increased damage.	
+Sword Guard 2	Sword Guard 2	If foe is equipped with a sword, unit takes 2 less damage during combat.	Sword Guard 1, Sword Guard 3, Sword Guard 4, Sword Guard 5
+SpdDex p3	Spd/Dex +3	Grants Spd+3 and Dex+3.	SpdDex p1, SpdDex p2, SpdDex p4, SpdDex p5
+Charm	Charm	If unit’s attack triggers a chain attack, increases chain attack accuracy to 90%.	
+Sword Guard 3	Sword Guard 3	If foe is equipped with a sword, unit takes 3 less damage during combat.	Sword Guard 1, Sword Guard 2, Sword Guard 4, Sword Guard 5
+SpdDex p4	Spd/Dex +4	Grants Spd+4 and Dex+4.	SpdDex p1, SpdDex p2, SpdDex p3, SpdDex p5
+Sword Guard 4	Sword Guard 4	If foe is equipped with a sword, unit takes 4 less damage during combat.	Sword Guard 1, Sword Guard 2, Sword Guard 3, Sword Guard 5
+Rally Spectrump	Rally Spectrum+	Use to grant allies within 2 spaces +3 to all seven basic stats for 1 turn.	Rally Spectrum
+SpdDex p5	Spd/Dex +5	Grants Spd+5 and Dex+5.	SpdDex p1, SpdDex p2, SpdDex p3, SpdDex p4
+Sword Guard 5	Sword Guard 5	If foe is equipped with a sword, unit takes 5 less damage during combat.	Sword Guard 1, Sword Guard 2, Sword Guard 3, Sword Guard 4
+Reprisal	Reprisal	If unit’s HP is not full, adds 30% of lost HP to Atk.	Reprisalp
+Contract	Contract	Use to grant another action to an adjacent ally who has already acted. (Ally cannot move.)	
+Summon Hero	Summon Hero	Use to summon a random unit.	
+MagDex p1	Mag/Dex +1	Grants Mag+1 and Dex+1.	MagDex p2, MagDex p3, MagDex p4, MagDex p5
+Book of Worlds	Book of Worlds	Book of Worlds advances 1 stage (to max 5) for each consecutive round that unit uses Wait. Reverts to base stage if unit triggers the effect.\n\n[Book I: Seal] If unit initiates combat, freezes foe after combat.\n[Book II: Flame] If unit initiates combat, freezes foe and sets foe’s space on fire after combat.\n[Book III: Death] If unit initiates combat, deals 10 damage, freezes foe, and sets foe’s space on fire after combat.\n[Book IV: Dream] If unit initiates combat, restores HP equal to damage dealt during combat, then deals 10 damage, freezes foe, and sets foe’s space on fire after combat.\n[Book V: Science] If unit initiates combat, restores HP to self and adjacent allies equal to damage dealt during combat, then deals 10 damage, freezes foe, and sets foe’s space on fire after combat.\n	
+Knife Guard 1	Knife Guard 1	If foe is equipped with a knife, unit takes 1 less damage during combat.	Knife Guard 2, Knife Guard 3, Knife Guard 4, Knife Guard 5
+MagDex p2	Mag/Dex +2	Grants Mag+2 and Dex+2.	MagDex p1, MagDex p3, MagDex p4, MagDex p5
+Level Boost	Level Boost	When unit defeats a foe of a higher level, grants Lvl+1 until the end of battle. (Max +3)	
+Knife Guard 2	Knife Guard 2	If foe is equipped with a knife, unit takes 2 less damage during combat.	Knife Guard 1, Knife Guard 3, Knife Guard 4, Knife Guard 5
+MagDex p3	Mag/Dex +3	Grants Mag+3 and Dex+3.	MagDex p1, MagDex p2, MagDex p4, MagDex p5
+SP Conversion	SP Conversion	Grants +20 SP for each defeated foe. Triggers even without a ring or bracelet equipped.	
+Knife Guard 3	Knife Guard 3	If foe is equipped with a knife, unit takes 3 less damage during combat.	Knife Guard 1, Knife Guard 2, Knife Guard 4, Knife Guard 5
+MagDex p4	Mag/Dex +4	Grants Mag+4 and Dex+4.	MagDex p1, MagDex p2, MagDex p3, MagDex p5
+Knife Guard 4	Knife Guard 4	If foe is equipped with a knife, unit takes 4 less damage during combat.	Knife Guard 1, Knife Guard 2, Knife Guard 3, Knife Guard 5
+Reprisalp	Reprisal+	If unit’s HP is not full, adds 50% of lost HP to Atk.	Reprisal
+MagDex p5	Mag/Dex +5	Grants Mag+5 and Dex+5.	MagDex p1, MagDex p2, MagDex p3, MagDex p4
+Knife Guard 5	Knife Guard 5	If foe is equipped with a knife, unit takes 5 less damage during combat.	Knife Guard 1, Knife Guard 2, Knife Guard 3, Knife Guard 4

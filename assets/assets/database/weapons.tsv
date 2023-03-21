@@ -1,0 +1,69 @@
+ID	DisplayName	Description	Might	Hit	Crit	Weight	Range	ReqRank	EffectiveAgainstType	Type
+Rapier	Rapier	Sword wielded by Emblem Marth. Effective: Cavalry, Armor.	7	95	0	3	1	D	Cavalry, Armor	Sword
+Mercurius	Mercurius	Sword wielded by Emblem Marth. Doubles user’s earned experience.	12	80	0	7	1	D		Sword
+Falchion	Falchion	Sacred sword wielded by Emblem Marth. Effective: Dragon.	12	100	0	10	1	D	Dragon	Sword
+Ridersbane Sigurd	Ridersbane	Lance wielded by Emblem Sigurd. Effective: Cavalry.	10	75	0	6	1	D	Cavalry	Lance
+Brave Lance Sigurd	Brave Lance	Lance wielded by Emblem Sigurd. If user initiates combat, attacks twice.	7	60	0	12	1	D		Lance
+Tyrfing	Tyrfing	Sword wielded by Emblem Sigurd. Grants Res+5.	12	80	0	7	1	D		Sword
+Seraphim	Seraphim	Holy tome wielded by Emblem Celica. Effective: Corrupted.	6	90	0	4	1~2	D	Corrupted	Tome
+Recover Celica	Recover	Staff wielded by Emblem Celica. Recovers a great deal of HP.	40				1	D		Staff
+Ragnarok	Ragnarok	Mighty fire tome wielded by Emblem Celica.	15	95	10	12	1~2	D		Tome
+Shine	Shine	Light tome wielded by Emblem Micaiah. Illuminates a 5-space radius (shrinks one space per turn).	7	90	10	5	1~2	D		Tome
+Nosferatu	Nosferatu	Light tome wielded by Emblem Micaiah. User recovers HP equal to 50% of damage dealt.	9	85	0	7	1~2	D		Tome
+Thani	Thani	Mighty light tome wielded by Emblem Micaiah. Effective: Cavalry, Armor.	11	100	0	6	1~2	D	Cavalry, Armor	Tome
+Lancereaver	Lancereaver	Unusual sword wielded by Emblem Roy. Grants advantage vs. lances but disadvantage vs. axes.	9	80	5	9	1	D		Sword
+Wyrmslayer Roy	Wyrmslayer	Sword wielded by Emblem Roy. Effective: Dragon.	10	70	0	5	1	D	Dragon	Sword
+Binding Blade	Binding Blade	Famous sword wielded by Emblem Roy. Grants Def/Res+5. Can strike close or at range.	14	95	10	8	1~2	D		Sword
+Killer Axe Leif	Killer Axe	Axe wielded by Emblem Leif. Easily inflicts fatal wounds.	11	65	30	11	1	D		Axe
+Master Lance	Master Lance	Lance wielded by Emblem Leif. If user initiates combat, attacks twice. Can strike close or at range.	7	55	0	16	1~2	D		Lance
+Light Brand	Light Brand	Magical sword wielded by Emblem Leif. Grants Lck+10. Can strike close or at range.	15	75	20	6	1~2	D		Sword
+Noble Rapier	Noble Rapier	Sword wielded by Emblem Lucina. Effective: Cavalry, Armor,	8	85	10	8	1	D	Cavalry, Armor	Sword
+Parthia	Parthia	Bow wielded by Emblem Lucina. Doubles user’s earned experience. Grants Res+5. Effective: Flying.	17	95	5	14	2	D	Flying	Bow
+Parallel Falchion	Parallel Falchion	Sacred sword wielded by Emblem Lucina. Effective: Dragon.	10	80	5	10	1	D	Dragon	Sword
+Killer Bow Lyn	Killer Bow	Bow wielded by Emblem Lyn. Easily inflicts fatal wounds. Effective: Flying.	9	75	30	7	2	D	Flying	Bow
+Mani Katti	Mani Katti	Divine sword wielded by Emblem Lyn. Effective: Cavalry, Armor.	6	80	20	5	1	D	Cavalry, Armor	Sword
+Mulagir	Mulagir	Mighty bow wielded by Emblem Lyn. Grants Spd+5. Effective: Flying, Dragon.	16	80	0	9	2	D	Flying, Dragon	Bow
+Hammer Ike	Hammer	Hammer of Emblem Ike. Smashes foes. Cannot follow up, or strike first if initiating combat. Eff: Armor.	18	55	0	15	1	D	Armor	Axe
+Urvan	Urvan	Heirloom axe wielded by Emblem Ike. Grants Res+3.	21	90	5	19	1	D		Axe
+Ragnell	Ragnell	Sacred sword wielded by Emblem Ike. Grants Def+5. Can strike close or at range.	16	80	5	15	1~2	D		Sword
+Blutgang	Blutgang	Magical sword wielded by Emblem Byleth. Effective: Dragon, Cavalry.	8	80	0	7	1	D	Dragon, Cavalry	Sword
+Areadbhar	Areadbhar	Lance wielded by Emblem Byleth. If user initiates combat, grants Mt+50%.	14	75	10	9	1	D		Lance
+Failnaught	Failnaught	Bow wielded by Emblem Byleth. If user initiates combat, grants Avo+20. Effective: Dragon, Flying.	13	75	20	9	2~3	D	Dragon, Flying	Bow
+Luin	Lúin	Lance wielded by Emblem Byleth. Raises damage based on user’s Spd. Effective: Dragon. [+1 damage for every 3 Spd.]	11	90	10	9	1	D	Dragon	Lance
+Aymr	Aymr	Axe of Emblem Byleth. Smashes foes. Cannot follow up, or strike first if initiating combat. Eff: Dragon.	24	60	20	11	1	D	Dragon	Axe
+Vajra Mushti	Vajra-Mushti	Gauntlets wielded by Emblem Byleth. If user initiates combat, attacks twice. Uses lowest of foe’s Def/Res.	5	90	10	7	1	D		Arts
+Sword of the Creator	Sword of the Creator	Sword of Emblem Byleth. Raises damage with user’s Mag. Can strike close or at range. Effective: Dragon [+1 damage for every 3 Mag.]	11	90	10	7	1~2	D	Dragon	Sword
+Dual Katana	Dual Katana	Unusual sword wielded by Emblem Corrin. Grants advantage vs. lances but disadvantage vs. axes.	8	75	5	7	1	D		Sword
+Wakizashi	Wakizashi	Throwing sword wielded by Emblem Corrin. Can only strike at range, not close up.	10	75	0	10	2	D		Sword
+Yato	Yato	Sacred sword wielded by Emblem Corrin.	16	85	10	9	1	D		Sword
+Rapier Eirika	Rapier	Sword wielded by Emblem Eirika. Effective: Cavalry, Armor.	7	95	10	5	1	D	Cavalry, Armor	Sword
+Wind Sword	Wind Sword	Magical sword wielded by Emblem Eirika. Can strike close or at range. Effective: Flying.	10	70	0	9	1~2	D	Flying	Sword
+Sieglinde	Sieglinde	Paired sword wielded by Emblem Eirika. Effective: Corrupted.	12	90	0	9	1	D	Corrupted	Sword
+Lyration	Lyrátion	Sword of Emblem Alear. If user defeats foe in player phase, fills adjacent allies’ engage meters by 1.	15	90	10	10	1	D		Sword
+Dragons Fist	Dragon’s Fist	Magical attack wielded by Emblem Alear. If user initiates combat, attacks twice. (Uses Mag.)	10	85	0	9	1	D		Arts
+Oligoludia	Oligoludia	Sword wielded by Emblem Alear. Effective: Corrupted.	8	90	0	7	1	D	Corrupted	Sword
+Aymr Edelgard	Aymr	Axe of Emblem Edelgard. Smashes foes. Cannot follow up, or strike first if initiating combat. Eff: Dragon.	24	60	20	11	1	D	Dragon	Axe
+Areadbhar Dimitri	Areadbhar	Lance wielded by Emblem Dimitri. If user initiates combat, grants Mt+50%.	14	75	10	9	1	D		Lance
+Failnaught Claude	Failnaught	Bow wielded by Emblem Claude. If user initiates combat, grants Avo+20. Effective: Dragon, Flying.	13	75	20	9	2~3	D	Dragon, Flying	Bow
+Eternal Claw	Eternal Claw	Claw attack used by Emblem Tiki. Easily inflicts fatal wounds.	10	90	30	8	1	D		Special
+Tail Smash	Tail Smash	Smash attack used by Emblem Tiki. Smashes foes. Cannot follow up, or strike first if initiating combat.	22	85	0	13	1	D		Special
+Fire Breath	Fire Breath	A scorching breath attack. Ignores foe’s Def/Res.	10	75	0	15	1	D		Special
+Ice Breath	Ice Breath	Strikes foes in area at half Def. Freezes foes. Cannot follow up, or strike first if initiating combat.	10	75	0	15	1	D		Special
+Flame Breath	Flame Breath	Sets area on fire. Strikes foes at 70% damage and half Def. Cannot follow up, or strike first if initiating combat.	10	75	0	15	1	D		Special
+Dark Breath	Dark Breath	Magically strikes foes in area at half Res. Cannot follow up, or strike first if initiating combat.	10	75	0	15	1	D		Special
+Fog Breath	Fog Breath	Strikes foes in area at half Def. Eff: Dragon. Creates fog. Cannot follow up, or strike first if initiating combat.	10	75	0	15	1	D	Dragon	Special
+Wolf Beil	Wolf Beil	Axe wielded by Emblem Hector. Effective: Cavalry, Armor.	10	75	5	10	1	D	Cavalry, Armor	Axe
+Runesword	Runesword	Magic sword of Emblem Hector. Can strike close or at range. Restore HP equal to 50% of damage dealt.	12	65	0	11	1~2	D		Sword
+Armads	Armads	Lightning-charged axe wielded by Emblem Hector. Grants Def+5. Effective: Dragon.	22	85	0	18	1	D	Dragon	Axe
+Bolting	Bolting	Long-range thunder magic wielded by Emblem Soren. Cannot follow up.	2	50	0	15	3~10	D		Tome
+Reflect	Reflect	Staff of Emblem Soren. Allies within 2 spaces gain “deals 50% of magic damage taken back to foe” for 1 turn.	0				1~2	D		Staff
+Rexcalibur	Rexcalibur	Powerful wind magic wielded by Emblem Soren. Effective: Flying.	16	105	10	12	1~2	D	Flying	Tome
+Bolt Axe	Bolt Axe	Magic axe wielded by Emblem Camilla. Can strike close or at range.	14	65	0	9	1~2	D		Axe
+Lightning	Lightning	Magic wielded by Emblem Camilla. If user initiates combat, attacks twice.	3	75	0	10	1~2	D		Tome
+Camillas Axe	Camilla’s Axe	Axe wielded by Emblem Camilla. Grants Res+10 and deals extra damage = foe’s Res-Def.	19	80	0	11	1	D		Axe
+Levin Sword Robin	Levin Sword	Magic sword wielded by Emblem Robin. Can hit foes with magic lightning from a distance.	10	80	0	8	1~2	D		Sword
+Thoron Robin	Thoron	Powerful lightning magic wielded by Emblem Robin.	14	65	10	7	1~2	D		Tome
+Falchion Chrom	Falchion	A legendary sword wielded by Emblem Chrom. Effective: Dragon.	13	80	10	12	1	D	Dragon	Sword
+Hlioskjalf	Hliðskjálf	A staff wielded by Emblem Veronica. If user initiates combat, foe cannot counterattack.	13	70	0	7	1~2	D		Tome
+Fortifyp	Fortify+	A staff wielded by Emblem Veronica. Heals HP and status effects for all allies within a 7-space radius.	10				1~7	D		Staff
+Elivagar	Élivágar	Powerful magic wielded by Emblem Veronica. Nullifies basic stat bonuses on target for 1 turn after combat.	18	85	0	10	1~2	D		Tome

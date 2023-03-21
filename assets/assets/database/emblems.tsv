@@ -1,0 +1,28 @@
+ID	DisplayName	RecruitementChapter	RecruitementDescription	RecruitementBis	SubEmblems	IsMajorSpoiler	IsDLC	isShown
+Marth	Marth	Chapter 1		After Chapter 10, will be obtained again on Chapter 22		F	F	T
+Sigurd	Sigurd	Chapter 3		After Chapter 10, will be obtained again on Chapter 17		F	F	T
+Celica	Celica	Chapter 5		After Chapter 10, will be obtained again on Chapter 20		F	F	T
+Micaiah	Micaiah	Chapter 6		After Chapter 10, will be obtained again on Chapter 19		F	F	T
+Leif	Leif	Chapter 8		After Chapter 10, will be obtained again on Chapter 17		F	F	T
+Roy	Roy	Chapter 8		After Chapter 10, will be obtained again on Chapter 19		F	F	T
+Lyn	Lyn	Chapter 11				F	F	T
+Lucina	Lucina	Chapter 11				F	F	T
+Ike	Ike	Chapter 13				F	F	T
+Byleth	Byleth	Chapter 14				F	F	T
+Corrin	Corrin	Chapter 15				F	F	T
+EirikaEphraim	Eirika	Chapter 16			Eirika, Ephraim	F	F	T
+Eirika	Eirika					F	F	F
+Ephraim	Ephraim					F	F	F
+Alear	Alear	Chapter 22				T	F	T
+ThreeHouses	Edelgard	Chapter 6	After chapter 6, at the Lookout Ridge in Somniel		Edelgard, Dimitri, Claude	F	T	T
+Edelgard	Edelgard					F	F	F
+Dimitri	Dimitri					F	F	F
+Claude	Claude					F	F	F
+Tiki	Tiki	Chapter 6	Divine Paralogue, after getting Edelgard, Dimitri and Claude emblem			F	T	T
+Hector	Hector	Chapter 7	Divine Paralogue, after getting Edelgard, Dimitri and Claude emblem			F	T	T
+Soren	Soren	Chapter 8	Divine Paralogue, after getting Edelgard, Dimitri and Claude emblem			F	T	T
+Camilla	Camilla	Chapter 9	Divine Paralogue, after getting Edelgard, Dimitri and Claude emblem			F	T	T
+ChromRobin	Chrom	Chapter 10	Divine Paralogue, after getting Edelgard, Dimitri and Claude emblem		Chrom, Robin	F	T	T
+Chrom	Chrom					F	F	F
+Robin	Robin					F	F	F
+Veronica	Veronica	Chapter 11	Divine Paralogue, after getting Edelgard, Dimitri and Claude emblem			F	T	T

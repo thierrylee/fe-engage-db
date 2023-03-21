@@ -1,0 +1,4 @@
+ID	DisplayName	Description
+Aegis Shield	Aegis Shield	Shield wielded by Emblem Byleth. Grants Def+6 and Res+3. May halve damage if carried. Trigger %=Dex.
+Thyrsus	Thyrsus	Staff wielded by Emblem Byleth. Grants magic range +2. May halve damage if carried. [Trigger %=Dex.]
+Rafail Gem	Rafail Gem	Relic gem of Emblem Byleth. User is immune to Effective and critical hits. May halve damage if carried. [Trigger %=Dex.]
