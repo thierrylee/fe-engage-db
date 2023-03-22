@@ -1,3 +1,6 @@
+4.0.1
+- Add required DLC pack for some emblems & fix recruitment chapter
+
 4.0
 - Add emblems with skills & engage weapons
 
