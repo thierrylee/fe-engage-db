@@ -1,3 +1,6 @@
+4.1
+- Add DLC Wave 4 characters, classes & skills
+
 4.0.1
 - Add required DLC pack for some emblems & fix recruitment chapter
 

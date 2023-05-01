@@ -46,6 +46,11 @@ Fell Protection	Fell Protection	Adjacent allies deal +1 damage and take 3 less d
 Contemplative	Contemplative	If unit uses Wait without attacking or using items, grants Def+2 for 1 turn.	
 Make a Killing	Make a Killing	May obtain 500G when unit defeats a foe. Trigger %=Lck.	
 Expertise	Expertise	Grants unit enhanced stat growth when leveling up. [Doubles class growths.]	
+Protective	Protective	If foe initiates combat against Rafal, grants Crit+10 to unit for 1 turn.	
+Rivalry	Rivalry	When an ally within 2 spaces defeats a foe, grants Crit+10 to unit for 1 turn.	
+Friendly Boost	Friendly Boost	When unit defeats a foe, grants Hit+20 to allies within 2 spaces for 1 turn.	
+Survival Plan	Survival Plan	When there are more foes than allies within 3 spaces, grants Avo+20.	
+Knightly Code	Knightly Code	If foe initiates combat and unit is adjacent to an ally, unit takes 2 less damage.	
 Divine Spirit	Divine Spirit	Unit’s engage meter is shortened one step.	
 Dark Spirit	Dark Spirit	Inflicts -1 to the engage meters of foes within 2 spaces at the start of the turn.	
 Fell Spirit	Fell Spirit	At the start of each turn, unit’s engage meter is filled by 1.	
@@ -78,6 +83,11 @@ Clear the Way	Clear the Way	Unit’s space and adjacent spaces have a movement c
 Air Raid	Air Raid	If unit initiates combat from a space a foe cannot enter, grants Spd+5 during combat.	
 Pass	Pass	Foes do not block this unit’s movement.	
 Special Dance	Special Dance	If unit uses Dance, grants Dex/Spd/Lck+3 to target for 1 turn.	
+Resist Emblems	Resist Emblems	When attacked with an engage attack, prevents 20% of damage.	
+Spur Emblems	Spur Emblems	At start of player phase, fills adjacent allies’ engage meters by 1.	
+Soulblade	Soulblade	When attacking with a sword, damage is calculated using average of foe’s Def and Res.	
+Convoy	Convoy	Use to deposit or retrieve weapons and items.	
+Let Fly	Let Fly	Use to perform a guaranteed-hit, area-of-effect attack at the start of the next player phase. Unit loses equipped weapon.	
 Perceptive	Perceptive	If the unit initiates combat, grants Avo+15 during combat. Avo increases with high Spd.	Perceptivep
 Avoid p10	Avoid +10	Grants Avo+10.	Avoid p15, Avoid p20, Avoid p25, Avoid p30
 Divine Speed	Divine Speed	Unit performs an extra attack at 50% damage in combat.	
